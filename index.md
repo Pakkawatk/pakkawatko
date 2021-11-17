@@ -23,7 +23,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [NEWPAGE]https://pakkawatk.github.io/portfolio/page1/).
+For more details see [NEWPAGE](https://pakkawatk.github.io/portfolio/page1/).
 
 ### Jekyll Themes
 
