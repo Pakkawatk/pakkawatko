@@ -4,6 +4,7 @@
 **PROGRAMMING:**<br />Python for Data Science, R, PostgreSQL, MySQL, Unix, Power Shell.<br />
 **SOFTWARE:**<br />Power BI, Tableau, Hadoop, Spark, Rapid Miner, Amazon Web Service (AWS), Google Cloud Platform (GCP), MS office & Power Query, Minitab.<br />
 ![Image](/img/BI1.png)
+
 ---
 layout: default
 ---
