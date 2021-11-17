@@ -1,8 +1,3 @@
-## PAKKAWAT KOMONMAN
-**PHONE:** 084-342-6242<br /> 
-**EMAIL:** pakkawatko@gmail.com<br />
-**ADDRESS:** Phayathai Bangkok and Wangnoi Ayutthaya.<br />
-**OCCUPATION:** Sr.Process Engineer and Data Analyst.<br /><br /> 
 **EDUCATION:**<br /> ● Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. [>Course Curriculum](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />● Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br /><br /> 
 **LANGUAGE:**   English. (Good with TOEIC = 710 in 2014)<br />
 **PROGRAMMING:**   Python for Data Science, R, PostgreSQL, MySQL, Unix, Power Shell.<br />
