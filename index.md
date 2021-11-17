@@ -1,7 +1,7 @@
 ## PAKKAWAT KOMONMAN
-<pre>
-**PHONE:**         084-342-6242<br />   
-**EMAIL:**         pakkawatko@gmail.com<br />
+
+**PHONE:**    084-342-6242<br />   
+**EMAIL:**        pakkawatko@gmail.com<br />
 **ADDRESS:**       Phayathai Bangkok and Wangnoi Ayutthaya.<br />
 **DATE OF BIRTH:** 10 Feb 1988<br />
 **OCCUPATION:**    Sr.Process Engineer and Data Analyst.<br />
@@ -11,7 +11,6 @@
 **PROGRAMMING:**   Python for Data Science, R, PostgreSQL, MySQL, Unix, Power Shell.<br />
 **SOFTWARE:**      Power BI, Tableau, Hadoop, Spark, Rapid Miner, Amazon Web Service (AWS),<br /> 
                    Google Cloud Platform (GCP), MS office & Power Query, Minitab.<br />
-</pre>
 
 
 ### Markdown
