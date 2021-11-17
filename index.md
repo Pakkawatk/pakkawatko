@@ -1,7 +1,7 @@
 ## PAKKAWAT KOMONMAN
 <pre>
 **PHONE:**         084-342-6242</pre><br />   
-**EMAIL:**         pakkawatko@gmail.com</pre><br />
+**EMAIL:**         pakkawatko@gmail.com<br />
 **ADDRESS:**       Phayathai Bangkok and Wangnoi Ayutthaya.</pre><br />
 **DATE OF BIRTH:** 10 Feb 1988</pre><br />
 **OCCUPATION:**    Sr.Process Engineer and Data Analyst.</pre><br />
