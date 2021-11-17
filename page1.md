@@ -1,3 +1,3 @@
 layout: page
 title: "PAGE TITLE"
-permalink: /page1/
+permalink: https://pakkawatk.github.io/portfolio/page1
