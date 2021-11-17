@@ -1,15 +1,18 @@
 ## PAKKAWAT KOMONMAN
-**PHONE:**<pre>         084-342-6242</pre><br />   
-**EMAIL:**<pre>         pakkawatko@gmail.com</pre><br />
-**ADDRESS:**<pre>       Phayathai Bangkok and Wangnoi Ayutthaya.</pre><br />
-**DATE OF BIRTH:**<pre> 10 Feb 1988</pre><br />
-**OCCUPATION:**<pre>    Sr.Process Engineer and Data Analyst.</pre><br />
-**EDUCATION:**<pre>     Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University.[course curriculum](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
-                        Bachelor’s Degrees in Industrial Engineering, Kasetsart University.</pre><br />
-**LANGUAGE:**<pre>      English. (Good with TOEIC = 710 in 2014)</pre><br />
-**PROGRAMMING:**<pre>   Python for Data Science, R, PostgreSQL, MySQL, Unix, Power Shell.</pre><br />
-**SOFTWARE:**<pre>      Power BI, Tableau, Hadoop, Spark, Rapid Miner, Amazon Web Service (AWS),<br /> 
-                        Google Cloud Platform (GCP), MS office & Power Query, Minitab.</pre><br />
+<pre>
+**PHONE:**         084-342-6242</pre><br />   
+**EMAIL:**         pakkawatko@gmail.com</pre><br />
+**ADDRESS:**       Phayathai Bangkok and Wangnoi Ayutthaya.</pre><br />
+**DATE OF BIRTH:** 10 Feb 1988</pre><br />
+**OCCUPATION:**    Sr.Process Engineer and Data Analyst.</pre><br />
+**EDUCATION:**     Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University.[course curriculum](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
+                   Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br />
+**LANGUAGE:**      English. (Good with TOEIC = 710 in 2014)<br />
+**PROGRAMMING:**   Python for Data Science, R, PostgreSQL, MySQL, Unix, Power Shell.<br />
+**SOFTWARE:**      Power BI, Tableau, Hadoop, Spark, Rapid Miner, Amazon Web Service (AWS),<br /> 
+                   Google Cloud Platform (GCP), MS office & Power Query, Minitab.<br />
+</pre>
+
 
 ### Markdown
 
