@@ -1,14 +1,15 @@
 ## PAKKAWAT KOMONMAN
-PHONE:          084-342-6242   EMAIL: pakkawatko@gmail.com<br />
-ADDRESS:        Phayathai Bangkok and Wangnoi Ayutthaya.<br />
-DATE OF BIRTH:	10 Feb 1988<br />
-OCCUPATION:     Sr.Process Engineer and Data Analyst.<br />
-EDUCATION:      Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University.[course curriculum](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
+**PHONE:**          084-342-6242   
+**EMAIL:**          pakkawatko@gmail.com<br />
+**ADDRESS:**        Phayathai Bangkok and Wangnoi Ayutthaya.<br />
+**DATE OF BIRTH:**	10 Feb 1988<br />
+**OCCUPATION:**     Sr.Process Engineer and Data Analyst.<br />
+**EDUCATION:**      Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University.[course curriculum](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
                 Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br /
-LANGUAGE:       English. (Good with TOEIC = 710 in 2014)<br />
-PROGRAMMING:  	Python for Data Science, R, PostgreSQL, MySQL, Unix, Power Shell.<br />
-SOFTWARE:       Power BI, Tableau, Hadoop, Spark, Rapid Miner, Amazon Web Service (AWS),<br /> 
-                Google Cloud Platform (GCP), MS office & Power Query, Minitab.<br />
+**LANGUAGE:**       English. (Good with TOEIC = 710 in 2014)<br />
+**PROGRAMMING:**  	Python for Data Science, R, PostgreSQL, MySQL, Unix, Power Shell.<br />
+**SOFTWARE:**       Power BI, Tableau, Hadoop, Spark, Rapid Miner, Amazon Web Service (AWS),<br /> 
+                    Google Cloud Platform (GCP), MS office & Power Query, Minitab.<br />
 
 ### Markdown
 
