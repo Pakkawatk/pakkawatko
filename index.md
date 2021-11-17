@@ -7,8 +7,7 @@
 **EDUCATION:**<br /> ● Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. [course curriculum](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />● Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br /><br /> 
 **LANGUAGE:**   English. (Good with TOEIC = 710 in 2014)<br />
 **PROGRAMMING:**   Python for Data Science, R, PostgreSQL, MySQL, Unix, Power Shell.<br />
-**SOFTWARE:**   Power BI, Tableau, Hadoop, Spark, Rapid Miner, Amazon Web Service (AWS),<br /> 
-                Google Cloud Platform (GCP), MS office & Power Query, Minitab.<br />
+**SOFTWARE:**   Power BI, Tableau, Hadoop, Spark, Rapid Miner, Amazon Web Service (AWS), Google Cloud Platform (GCP), MS office & Power Query, Minitab.<br />
 
 
 ### Markdown
