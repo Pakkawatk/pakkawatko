@@ -1,5 +1,5 @@
 ## PAKKAWAT KOMONMAN
-![Image](https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/196514849_10158137208737919_4483036223552069782_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGm1IqVSzMXNgOPer1ORbXkPQMvcuW9TdQ9Ay9y5b1N1JNHSQf4le4v1KDzzzMdAXI&_nc_ohc=sfLNbeQ7mOMAX_dcGeo&_nc_ht=scontent.fbkk25-1.fna&oh=396c1913bdc359493dc4d0c6dbc26b43&oe=61BB1F38)
+![Image](https://drive.google.com/file/d/1FV0xl0JN69Lz4CIdkRaZRRfJd5i6GRA8/view?usp=sharing)
 **PHONE:** 084-342-6242<br /> 
 **EMAIL:** pakkawatko@gmail.com<br />
 **ADDRESS:** Phayathai Bangkok and Wangnoi Ayutthaya.<br />
