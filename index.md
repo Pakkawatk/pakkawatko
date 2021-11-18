@@ -15,10 +15,10 @@ Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Pr
 _-Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX, M)_<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 ### Machine Learning Competition.<br /> 
-
+36th from 76 competitors of Thailand Machine Learning for Chemistry Competition<br />
+Objective: To predict chemical property of MOF by ML Model with the lowest log of MAE score.<br />
+ML Method: XGBoost and Neural Network.
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
-
-
 
 ### Rapidminer Projects.<br />
 _-Skill level: professional certificate ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning)_<br /> 
