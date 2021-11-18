@@ -16,7 +16,7 @@ _-Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill throug
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 ### Machine Learning Competition.<br /> 
 
-<img src="https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true" alt="tmlcc" width="350"/><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
 
 
 
