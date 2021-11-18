@@ -16,9 +16,9 @@ _-Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill throug
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 ### Machine Learning Competition.<br /> 
 
-<img src="https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.jpg?raw.true" alt="tmlcc" width="400"/><br />
+<img src="https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.jpg?raw=true" alt="tmlcc" width="400"/><br />
 
-
+![](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.jpg?raw=true =250x)
 
 ### Rapidminer Projects.<br />
 _-Skill level: professional certificate ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning)_<br /> 
