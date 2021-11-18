@@ -7,6 +7,7 @@
 **SOFTWARE:**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
 
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 ---
 layout: default<br />
 ---
