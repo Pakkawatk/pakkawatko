@@ -10,20 +10,21 @@ English TOEIC = 710 in 2014<br />
 ### SOFTWARE<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
 # My Data Projects<br />
+
 ### Visualization Reports by Power BI.<br /> 
 Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Process Engineering Department.<br />
 _-- Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX, M)_<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
+
 ### Machine Learning Competition.<br /> 
-36th from 76 competitors as "Team Koalas" in Thailand Machine Learning for Chemistry Competition. The objective is predicting chemical property of MOF by ML Model with the lowest log of MAE score using XGBoost and Neural Network.<br />
+36th from 76 competitors as "Team Koalas" in Thailand Machine Learning for Chemistry Competition. The objective is predicting chemical property of MOF by ML Model with the lowest log of MAE score using XGBoost and Neural Network.[>More Details<](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
 
 ### Rapidminer Projects.<br />
 _-Skill level: professional certificate ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning)_<br /> 
-
 <img src="https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapidcert.jpg?raw=true" alt="rapidcert" width="400"/><br />
 
-
+<br /><br />
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
