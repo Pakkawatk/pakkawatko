@@ -15,14 +15,15 @@ Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Pr
 _-Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX, M)_<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 ### Machine Learning Competition.<br /> 
----
-featuredImage = "img/tmlcc.jpg"
----
+
+featuredImage: ../img/tmlcc.jpg
+
 ### Rapidminer Projects.<br />
 _-Skill level: professional certificate ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning)_<br /> 
----
-featuredImage = "img/rapidcert.jpg"
----
+
+featuredImage: img/rapidcert.jpg
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
