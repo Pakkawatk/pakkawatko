@@ -21,10 +21,10 @@ _-- Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill thro
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
 
 ### Rapidminer Projects.<br />
-_-Skill level: professional certificate ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning)_<br /> 
-<img src="https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapidcert.jpg?raw=true" alt="rapidcert" width="400"/><br />
+_-Skill level: professional certificate ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning)_<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
 
-<br /><br />
+<br />
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
