@@ -8,7 +8,7 @@
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
 
 ---
-layout: default
+layout: default<br />
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
