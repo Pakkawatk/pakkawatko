@@ -1,11 +1,11 @@
 # Profile<br />
 
-### EDUCATION<br /> 
+#### EDUCATION<br /> 
 ● Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021) [>Course Curriculum<](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 ● Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br />
-### LANGUAGE<br />
+#### LANGUAGE<br />
 English TOEIC = 710 in 2014<br />
-### PROGRAMMING<br />
+#### PROGRAMMING<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/prog.png?raw=true)<br />
 ### SOFTWARE<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
@@ -15,10 +15,10 @@ Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Pr
 _-Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX, M)_<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 ### Machine Learning Competition.<br /> 
-
+featuredImage = "img/tmlcc.jpg"
 ### Rapidminer Projects.<br />
 _-Skill level: professional certificate ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning)_<br /> 
-
+featuredImage = "img/rapidcert.jpg"
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
