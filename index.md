@@ -9,14 +9,15 @@ English TOEIC = 710 in 2014<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/prog.png?raw=true)<br />
 ### SOFTWARE<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
-# My Projects<br />
+# My Data Projects<br />
 ### Visualization Reports by Power BI.<br /> 
 Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Process Engineering Department.<br />
 _-Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX, M)_<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
----
-layout: default<br />
----
+### Machine Learning Competition.<br /> 
+
+### Rapidminer Projects.<br />
+_-Skill level: professional certificate ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning)_<br /> 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
