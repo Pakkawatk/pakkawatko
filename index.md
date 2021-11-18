@@ -13,11 +13,11 @@ English TOEIC = 710 in 2014<br />
 
 ### Visualization Reports by Power BI.<br /> 
 Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Process Engineering Department.<br />
-_-- Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX, M)_<br />
+_-- Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M)_ [>More Details<](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 
 ### Machine Learning Competition.<br /> 
-36th from 76 competitors as "Team Koalas" in Thailand Machine Learning for Chemistry Competition. The objective is predicting chemical property of MOF by ML Model with the lowest log of MAE score using XGBoost and Neural Network.[>More Details<](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
+36th from 76 competitors as "Team Koalas" in Thailand Machine Learning for Chemistry Competition. The objective is predicting chemical property of MOF by ML Model with the lowest log of MAE score using XGBoost and Neural Network. [>More Details<](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
 
 ### Rapidminer Projects.<br />
