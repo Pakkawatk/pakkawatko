@@ -1,7 +1,7 @@
 # Profile<br />
 
 ### EDUCATION<br /> 
-● Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2020) [>Course Curriculum<](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
+● Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021) [>Course Curriculum<](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 ● Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br />
 ### LANGUAGE<br />
 English TOEIC = 710 in 2014<br />
@@ -11,7 +11,7 @@ English TOEIC = 710 in 2014<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
 # My Projects<br />
 ### Visualization Reports by Power BI.<br /> 
-Created KPI, Summary, Ad-Hoc report for Process Engineering Department using Power BI.<br />
+Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Process Engineering Department.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 ---
 layout: default<br />
