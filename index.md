@@ -4,7 +4,7 @@
 ### **PROGRAMMING:**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/prog.png?raw=true)<br />
 
-###**SOFTWARE:**<br />
+### **SOFTWARE:**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
 
 # My Projects<br />
