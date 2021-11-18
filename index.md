@@ -12,6 +12,7 @@ English TOEIC = 710 in 2014<br />
 # My Projects<br />
 ### Visualization Reports by Power BI.<br /> 
 Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Process Engineering Department.<br />
+Skill level: Intermediate(ETL, Hide/Show icon using Bookmarks, Dill through, Custom Tooltips, Basic DAX)
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 ---
 layout: default<br />
