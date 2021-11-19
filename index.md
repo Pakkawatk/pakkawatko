@@ -13,7 +13,8 @@ English TOEIC = 710 in 2014<br />
 
 ### Visualization Reports by Power BI.<br /> 
 Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Process Engineering Department.<br />
-_-- Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M)_ [>More Details<](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br /><br />
+-- Skill level: Intermediate ( ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M ) [>More Details<](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
+_*Some confidential details was cencered._<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 
 ### Machine Learning Competition.<br /> 
@@ -21,10 +22,13 @@ _-- Skill level: Intermediate (ETL, Hide/Show objects using Bookmarks, Dill thro
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
 
 ### Rapidminer Projects.<br />
-_-Skill level: professional certificate ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning)_<br />
+-Skill level: Professional Certification ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning )<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
 
-<br />
+### Cloud Platform Projects.<br />
+-Skill level: xxxxx<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
