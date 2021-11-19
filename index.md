@@ -23,7 +23,7 @@ _*Some confidential details was cencered._<br /><br />
 
 ### Rapidminer Projects.<br />
 -Skill level: Professional Certification ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning )<br />
-[>More Details<](https://github.com/Pakkawatk/portfolio/blob/gh-pages/rapmprojects.md)<br />
+[>More Details<](https://github.com/Pakkawatk/portfolio/blob/gh-pages/rapmprojects)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
 
 ### Cloud Platform Projects.<br />
