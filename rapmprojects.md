@@ -1,5 +1,5 @@
 # Data Analytics Project with Rapid Miner.
-This page is about demonstrations of Data Mining by Rapid Miner Stodio.<br />
+This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
 ## Association Rules
 ***Objective:*** To find Frequent Item sets and Association Rules<br />
 ***Dataset:*** Basic example POS.<br />
