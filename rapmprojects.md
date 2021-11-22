@@ -1,7 +1,7 @@
 # Data Analytics Project with Rapid Miner.
-
+This page is about demonstrations of Data Mining by Rapid Miner Stodio.<br />
 ## Association Rules
-***Objective:*** Demonstrated the Frequent Item set and Association Rules<br />
+***Objective:*** To find Frequent Item sets and Association Rules<br />
 ***Dataset:*** Basic example POS.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
 ***Process:***
