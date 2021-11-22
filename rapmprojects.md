@@ -2,7 +2,7 @@
 This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
 ## 1. Association Rules
 ***Objective:*** To find Frequent Item Sets and Association Rules<br />
-***Dataset:*** Basic example POS transactions.<br />
+***Dataset:*** Basic example transactions of Super Market.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
 ***Process:***
 - Transform table by pivot product name and sum value.<br />
@@ -10,7 +10,7 @@ This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
 - FP-Growth, minimum support = 0.5<br />
 - Association Rules, Minimum confidence = 0.8<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso2.PNG?raw=true)<br /><br />
-***Method:*** FP-Growth to find frequent item sets at minimum support = 0.5<br />
+Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
 ***Association Rules:*** Minimum confidence = 0.8<br /> 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
@@ -18,7 +18,19 @@ This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
 ### 2. Clustering & Segmentation
 RFM
 K-Means
-
+***Objective:*** To Segment the customers by RFM method and analyze access time of each customers<br />
+***Dataset:*** Transactions of Shopping Mall.<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
+***Process:***
+- Do feature engineering like sum total prize<br />
+- Extract Day and Hour from Transactions and discretize by Day of Week and Period of times.<br />
+- Do RFM segmentation by generating Recency, Frequency, Monetary and Basket Size.<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso2.PNG?raw=true)<br /><br />
+Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
+***Association Rules:*** Minimum confidence = 0.8<br /> 
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
+***Result:*** We got frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times  of pick up one that helps about making marketing promotions.<br />
 ### Machine Learning
 
 Imbalance data
