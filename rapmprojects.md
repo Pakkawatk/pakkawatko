@@ -3,16 +3,16 @@
 
 
 ## Association Rules
-Objective: Demonstrated the Frequent Item set and Association Rules<br />
-Dataset = Basic example POS.<br />
+***Objective:*** Demonstrated the Frequent Item set and Association Rules<br />
+***Dataset*** = Basic example POS.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br />
-Process
+***Process***
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso2.PNG?raw=true)<br />
-Method  = FP-Growth, Minimum Support = 0.5<br />
+***Method***  = FP-Growth to find frequent item set at minimum support = 0.5<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br />
-Association Rules with Minimum Confidence = 0.8<br />
+***Association Rules*** with minimum confidence = 0.8 to find pick up proability >= 0.8 and as the reesult, we got frequent item set with confident pick up together = 100%, and pick up together 1.333 times of pick up one<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
-Conclusion
+
 
 
 ### Clustering & Segmentation
