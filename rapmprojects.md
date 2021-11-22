@@ -1,13 +1,18 @@
 # Data Analytics Project with Rapid Miner.
 
-### RFM
+## Data Mining
 
-### Clustoring
-
-### Segmentation
 
 ### Association Rules
+Apriori
+FP-Growth
+
+### Clustering & Segmentation
+RFM
+K-Means
 
 ### Machine Learning
 
-
+Imbalance data
+Feature Selectin
+Evaluation models
