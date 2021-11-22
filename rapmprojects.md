@@ -1,6 +1,6 @@
-# Data Analytics Project with Rapid Miner Studio.
+# Data Analytics Projects with Rapid Miner Studio.
 This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
-## Association Rules
+## 1. Association Rules
 ***Objective:*** To find Frequent Item Sets and Association Rules<br />
 ***Dataset:*** Basic example POS.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
@@ -11,9 +11,7 @@ This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
 ***Association Rules:*** Minimum confidence = 0.8<br /> 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
 ***Result:*** We got frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times  of pick up one that helps about making marketing promotions.<br />
-
-
-### Clustering & Segmentation
+### 2. Clustering & Segmentation
 RFM
 K-Means
 
