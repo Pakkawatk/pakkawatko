@@ -10,7 +10,7 @@ This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
 ***Association Rules:*** Minimum confidence = 0.8<br /> 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
-***Result:*** We got frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one as following that helps about making marketing promotions.<br />
+***Result:*** We got frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times  of pick up one that helps about making marketing promotions.<br />
 
 
 ### Clustering & Segmentation
