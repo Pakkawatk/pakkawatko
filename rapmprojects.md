@@ -16,8 +16,7 @@ Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
 ***Result:*** We got frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times  of pick up one that helps about making marketing promotions.<br />
 ### 2. Clustering & Segmentation
-RFM
-K-Means
+
 ***Objective:*** To Segment the customers by RFM method and analyze access time of each customers<br />
 ***Dataset:*** Transactions of Shopping Mall.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
