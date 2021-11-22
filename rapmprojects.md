@@ -2,9 +2,13 @@
 This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
 ## 1. Association Rules
 ***Objective:*** To find Frequent Item Sets and Association Rules<br />
-***Dataset:*** Basic example POS.<br />
+***Dataset:*** Basic example POS transactions.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
 ***Process:***
+- Transform table by pivot product name and sum value.<br />
+- Transform value number to Binomial ( True and False )<br />
+- FP-Growth, minimum support = 0.5<br />
+- Association Rules, Minimum confidence = 0.8<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso2.PNG?raw=true)<br /><br />
 ***Method:*** FP-Growth to find frequent item sets at minimum support = 0.5<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
