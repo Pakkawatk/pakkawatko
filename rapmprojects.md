@@ -3,7 +3,7 @@
 
 
 ### Association Rules
-Objective: Demonstrated the Frequent Item set and Association Rules
+Objective: Demonstrated the Frequent Item set and Association Rules<br />
 Dataset = Basic example POS.<br />
 Method  = FP-Growth<br />
 Minimum Support = 0.5<br />
