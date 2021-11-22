@@ -6,7 +6,7 @@
 ### Association Rules
 Apriori
 FP-Growth
-
+rap_asso1.PNG
 ### Clustering & Segmentation
 RFM
 K-Means
