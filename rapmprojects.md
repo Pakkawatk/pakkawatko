@@ -26,9 +26,9 @@ K-Means
 - Extract Days and Hours from Transactions and discretize by Day of Week and Period of times.<br />
 - Do RFM segmentation by generating Recency, Frequency, Monetary and Basket Size.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2PNG?raw=true)<br /><br />
-RFM for each customers.
+RFM for each customers.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm3.PNG?raw=true)<br /><br />
-Access period of times for each customer.
+Access period of times for each customer.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
 ***Result:*** We got RFM to segment customer value to do marketing campains for individuals in appropriate customer's shopping times.<br />
 
