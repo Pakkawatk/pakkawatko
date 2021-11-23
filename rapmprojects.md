@@ -6,9 +6,9 @@ This page indicates Data Mining by Rapid Miner Studio such as Association Rules,
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
 **Process:**
 - Transform table by pivot product name and sum value.<br />
-- Transform value number to Binomial ( True and False )<br />
-- FP-Growth, minimum support = 0.5<br />
-- Association Rules, Minimum confidence = 0.8<br />
+- Transform number to binomial ( True and False )<br />
+- Apply FP-Growth method, minimum support = 0.5<br />
+- Apply Association Rules, Minimum confidence = 0.8<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso2.PNG?raw=true)<br /><br />
 Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
