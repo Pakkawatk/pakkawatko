@@ -33,7 +33,7 @@ RFM for each customers.<br />
 Shopping period of each customers.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
 
-- **Conclusion:** We got RFM table for analyzing marketing campains in appropriate shopping times for individual customers .<br />
+- **Conclusion:** We got RFM table and shopping period for analyzing marketing campains for individual customers.<br />
 
 ### 3. Clustering
 
