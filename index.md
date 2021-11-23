@@ -23,11 +23,12 @@ _*Some confidential details was censored._<br />
 
 ### 2. Data Analytics and Machine Learning with Python.<br /> 
 
-- **Machine Learning Competion at TMLCC**
+
+### 3. Machine Learning Competion at TMLCC.<br />
 36th rank from 76 competitors as "Team Koalas" in Thailand Machine Learning for Chemistry Competition. The objective is predicting chemical property of MOF by ML Model with the lowest log of MAE score using XGBoost and Neural Network. [More Details>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
 
-### 3. Data Anlytics with Rapidminer Studio.<br />
+### 4. Data Anlytics with Rapidminer Studio.<br />
 - **Skill level:** Professional Certification ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning )<br />
 [More Details>>](https://pakkawatk.github.io/portfolio/rapmprojects)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
