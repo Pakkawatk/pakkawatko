@@ -15,19 +15,19 @@ English TOEIC = 710 in 2014<br />
 
 # My Data Projects<br />
 
-### 1.Visualization Reports by Power BI.<br /> 
+### 1. Visualization Reports by Power BI.<br /> 
 Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Process Engineering Department.<br />
 - **Skill level:** Intermediate ( ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M ) [More Details>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 _*Some confidential details was censored._<br />
 
-### 2.Data Analytics and Machine Learning with Python.<br /> 
+### 2. Data Analytics and Machine Learning with Python.<br /> 
 
 - **Machine Learning Competion at TMLCC**
 36th rank from 76 competitors as "Team Koalas" in Thailand Machine Learning for Chemistry Competition. The objective is predicting chemical property of MOF by ML Model with the lowest log of MAE score using XGBoost and Neural Network. [More Details>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
 
-### 3.Data Anlytics with Rapidminer Studio.<br />
+### 3. Data Anlytics with Rapidminer Studio.<br />
 - **Skill level:** Professional Certification ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning )<br />
 [More Details>>](https://pakkawatk.github.io/portfolio/rapmprojects)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
