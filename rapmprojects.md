@@ -47,7 +47,7 @@ Shopping period of each customers.<br />
 - Discretize data into range 1-5 and set RFMB score (( R+F+M+B)/4).
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus2.PNG?raw=true)<br /><br />
 RFMB cluster and score.
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus4.PNG.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus4.PNG?raw=true)<br /><br />
 - **Conclusion:** Marketing Team can design individuals campaign for each cluster by RFMB score table.<br />
 
 
