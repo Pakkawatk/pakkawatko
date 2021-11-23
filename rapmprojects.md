@@ -49,14 +49,14 @@ Shopping period of each customers.<br />
 RFMB cluster and score.
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus4.PNG?raw=true)<br /><br />
 - **Conclusion:** Marketing Team can design individuals campaign for each cluster by RFMB score table.<br />
-### 3. Machine Learning
-**Objective:** To define sentimental from words<br />
-**Dataset:** Table of 300 words in columns with labels.   .<br />
+### 4. Machine Learning
+**Objective:** To define sentimental from words.<br />
+**Dataset:** Table of 300 words in columns with labels.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML1.PNG?raw=true)<br /><br />
 **Process:**
 - Transform numerical to binomial ( True, False )<br />
 - Class of positive and negative are imbalance. So, we use under sampling method to balance the class. <br />
-- Apply feature selection FCBF method for reducing feature from 300 to 30.
+- Apply feature selection FCBF method for reducing features from 300 to 30.
 - Apply Naive Bayes method with 10 Fold Cross Validation.
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML2.PNG?raw=true)<br /><br />
 Confusion Matrix.
