@@ -1,7 +1,7 @@
 # Data Analytics Projects with Rapid Miner Studio.
 This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
 ## 1. Association Rules
-**Objective:** To find Frequent Item Sets and Association Rules<br />
+**Objective:** To find Frequent Item Sets and Association Rules for making Maketing Promotions<br />
 **Dataset:** Basic example transactions of Super Market.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
 **Process:**
@@ -19,7 +19,7 @@ Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
 
 ### 2. Segmentation
 
-**Objective:** To segment the customers by RFM method and frequent shopping time of each customers<br />
+**Objective:** To segment the customers by RFM method and frequent shopping time of each customers for making Marketing Campaign<br />
 **Dataset:** Transactions of Shopping Mall.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
 **Process:**
@@ -33,7 +33,7 @@ RFM for each customers.<br />
 Shopping period of each customers.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
 
-- **Conclusion:** We got RFM table and shopping period for analyzing marketing campains for individual customers.<br />
+- **Conclusion:** We got RFM table and shopping period for analyzing Marketing Campaign.<br />
 
 ### 3. Clustering
 
