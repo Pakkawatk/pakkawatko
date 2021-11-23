@@ -14,7 +14,8 @@ Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
 **Association Rules:** Minimum confidence = 0.8<br /> 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
-**Result:** We can make promotions by above frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one. <br />
+
+- **Conclusion:** We can make promotions by above frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one. <br />
 
 ### 2. Segmentation
 
@@ -31,7 +32,8 @@ RFM for each customers.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm3.PNG?raw=true)<br /><br />
 Shopping period of each customers.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
-**Result:** We got RFM table for analyzing marketing campains in appropriate shopping times for individual customers .<br />
+
+- **Conclusion:** We got RFM table for analyzing marketing campains in appropriate shopping times for individual customers .<br />
 
 ### 3. Clustering
 
