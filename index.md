@@ -3,10 +3,13 @@
 #### EDUCATION<br /> 
 - Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021) [Course Curriculum>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 - Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br /><br />
+
 #### LANGUAGE<br />
 English TOEIC = 710 in 2014<br />
+
 #### PROGRAMMING<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/prog.png?raw=true)<br />
+
 ### SOFTWARE<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
 
