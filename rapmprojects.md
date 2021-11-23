@@ -19,7 +19,7 @@ Result of Association Rules, to find Lift at minimum confidence = 0.8<br />
 
 ### 2. Segmentation
 
-**Objective:** To segment the customers by RFM method and frequent shopping time of each customers for making Marketing Campaign<br />
+**Objective:** To segment the customers by RFMB method and frequent shopping time of each customers for making Marketing Campaign<br />
 **Dataset:** Transactions of Shopping Mall.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
 **Process:**
@@ -33,11 +33,11 @@ RFM for each customers.<br />
 Shopping period of each customers.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
 
-- **Conclusion:** We got RFM table and shopping period for analyzing Marketing Campaign and Clustering.<br />
+- **Conclusion:** We got RFMB table and shopping period for analyzing Marketing Campaign and Clustering.<br />
 
 ### 3. Clustering
-**Objective:** To define cluster of customers which grouping by RFM in order to making Marketing Campaign for individual clusters.<br />
-**Dataset:** RFM segmentation.<br />
+**Objective:** To define cluster of customers which grouping by RFMB in order to making Marketing Campaign for individual clusters.<br />
+**Dataset:** RFMB segmentation.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus1.PNG?raw=true)<br /><br />
 **Process:**
 - Normalize the imbalance data into range 0 - 1<br />
@@ -46,18 +46,19 @@ Shopping period of each customers.<br />
 - Average values of Recency, Frequency, Monetary and Basket size group by cluster.
 - Discretize data into range 1-5 and set RFMB score (( R+F+M+B)/4).
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus2.PNG?raw=true)<br /><br />
-RFMB cluster and score.
+RFMB cluster and score.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus4.PNG?raw=true)<br /><br />
-- **Conclusion:** Marketing Team can design individuals campaign for each cluster by RFMB score table.<br />
+- **Conclusion:** Marketing Team can name the clusters and design individual campaigns for each cluster by RFMB score table.<br />
 ### 4. Machine Learning
+
 **Objective:** To define sentimental from words.<br />
 **Dataset:** Table of 300 words in columns with labels.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML1.PNG?raw=true)<br /><br />
 **Process:**
 - Transform numerical to binomial ( True, False )<br />
-- Class of positive and negative are imbalance. So, we use under sampling method to balance the class. <br />
-- Apply feature selection FCBF method for reducing features from 300 to 30.
-- Apply Naive Bayes method with 10 Fold Cross Validation.
+- Class of positive and negative are imbalance. So, we use under sampling method to balance the class.<br />
+- Apply feature selection FCBF method for reducing features from 300 to 30.<br />
+- Apply Naive Bayes method with 10 Fold Cross Validation.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML2.PNG?raw=true)<br /><br />
-Confusion Matrix.
+Confusion Matrix.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML3.PNG?raw=true)<br /><br />
