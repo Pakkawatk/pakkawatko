@@ -18,7 +18,6 @@ Result of Association Rules, to find Lift at minimum confidence = 0.8<br />
 - **Conclusion:** We can make promotions by above frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one. <br />
 
 ### 2. Segmentation
-
 **Objective:** To segment the customers by RFMB method and frequent shopping time of each customers for making Marketing Campaign<br />
 **Dataset:** Transactions of Shopping Mall.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
@@ -49,8 +48,8 @@ Shopping period of each customers.<br />
 RFMB cluster and score.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus4.PNG?raw=true)<br /><br />
 - **Conclusion:** Marketing Team can name the clusters and design individual campaigns for each cluster by RFMB score table.<br />
-### 4. Machine Learning
 
+### 4. Machine Learning
 **Objective:** To define sentimental from words.<br />
 **Dataset:** Table of 300 words in columns with labels.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML1.PNG?raw=true)<br /><br />
