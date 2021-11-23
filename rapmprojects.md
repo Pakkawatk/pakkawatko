@@ -38,16 +38,18 @@ Shopping period of each customers.<br />
 ### 3. Clustering
 **Objective:** To define cluster of customers which grouping by RFM in order to making Marketing Campaign for individual clusters.<br />
 **Dataset:** RFM segmentation.<br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus1.PNG?raw=true)<br /><br />
 **Process:**
-- Filter customers in UK and do feature engineering by creating and aggregating sum total prize attribute<br />
+- Normalize the imbalance data into range 0 - 1<br />
+- Clustering by k-Means = 5<br />
+- After getting clusters, de-normalize into actual values.
+- Average values of Recency, Frequency, Monetary and Basket size group by cluster.
+- Discretize data into range 1-5 and set RFMB score (( R+F+M+B)/4).
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus2.PNG?raw=true)<br /><br />
+RFMB cluster and score.
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus4.PNG.PNG?raw=true)<br /><br />
+- **Conclusion:** Marketing Team can design individuals campaign for each cluster by RFMB score table.<br />
 
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2.PNG?raw=true)<br /><br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2_1.PNG?raw=true)<br /><br />
-RFM for each customers.<br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm3.PNG?raw=true)<br /><br />
-Shopping period of each customers.<br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
 
 - **Conclusion:** We got RFM table and shopping period for analyzing Marketing Campaign and Clustering.<br />
 Imbalance data
