@@ -1,8 +1,8 @@
 # Profile<br />
 
 #### EDUCATION<br /> 
-● Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021)[Course Curriculum>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
-● Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br />
+- Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021) [Course Curriculum>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
+- Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br />
 #### LANGUAGE<br />
 English TOEIC = 710 in 2014<br />
 #### PROGRAMMING<br />
@@ -13,7 +13,7 @@ English TOEIC = 710 in 2014<br />
 
 ### Visualization Reports by Power BI.<br /> 
 Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Process Engineering Department.<br />
--- Skill level: Intermediate ( ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M ) [More Details>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
+- **Skill level:** Intermediate ( ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M ) [More Details>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 _*Some confidential details was censored._<br />
 
@@ -22,7 +22,7 @@ _*Some confidential details was censored._<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
 
 ### Rapidminer Projects.<br />
--Skill level: Professional Certification ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning )<br />
+-**Skill level:** Professional Certification ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning )<br />
 [More Details>>](https://pakkawatk.github.io/portfolio/rapmprojects)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
 
