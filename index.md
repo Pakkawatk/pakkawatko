@@ -22,12 +22,12 @@ _*Some confidential details was censored._<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
 
 ### Rapidminer Projects.<br />
--**Skill level:** Professional Certification ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning )<br />
+- **Skill level:** Professional Certification ( ETL, Cleansing Data, ,Clustering, Segmentation, Machine Learning )<br />
 [More Details>>](https://pakkawatk.github.io/portfolio/rapmprojects)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
 
 ### Cloud Platform Projects.<br />
--Skill level: xxxxx<br />
+- **Skill level:** xxxxx<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
