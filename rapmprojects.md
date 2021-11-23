@@ -10,9 +10,9 @@ This page indicates Data Mining by Rapid Miner Studio such as Association Rules,
 - Apply FP-Growth method, minimum support = 0.5<br />
 - Apply Association Rules, Minimum confidence = 0.8<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso2.PNG?raw=true)<br /><br />
-Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
+Result of FP-Growth method to find frequent item sets at minimum support = 0.5<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
-Apply Association Rules, minimum confidence = 0.8<br /> 
+Result of Association Rules, to find Lift at minimum confidence = 0.8<br /> 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
 
 - **Conclusion:** We can make promotions by above frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one. <br />
@@ -33,10 +33,23 @@ RFM for each customers.<br />
 Shopping period of each customers.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
 
-- **Conclusion:** We got RFM table and shopping period for analyzing Marketing Campaign.<br />
+- **Conclusion:** We got RFM table and shopping period for analyzing Marketing Campaign and Clustering.<br />
 
 ### 3. Clustering
+**Objective:** To segment the customers by RFM method and frequent shopping time of each customers for making Marketing Campaign<br />
+**Dataset:** RFM segmentation.<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
+**Process:**
+- Filter customers in UK and do feature engineering by creating and aggregating sum total prize attribute<br />
 
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2_1.PNG?raw=true)<br /><br />
+RFM for each customers.<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm3.PNG?raw=true)<br /><br />
+Shopping period of each customers.<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
+
+- **Conclusion:** We got RFM table and shopping period for analyzing Marketing Campaign and Clustering.<br />
 Imbalance data
 Feature Selectin
 Evaluation models
