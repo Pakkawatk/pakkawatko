@@ -50,8 +50,3 @@ RFMB cluster and score.
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus4.PNG?raw=true)<br /><br />
 - **Conclusion:** Marketing Team can design individuals campaign for each cluster by RFMB score table.<br />
 
-
-- **Conclusion:** We got RFM table and shopping period for analyzing Marketing Campaign and Clustering.<br />
-Imbalance data
-Feature Selectin
-Evaluation models
