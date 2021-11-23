@@ -23,7 +23,7 @@ Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
 **Dataset:** Transactions of Shopping Mall.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
 **Process:**
-- Do feature engineering, sum total prize<br />
+- Filter customers in UK and do feature engineering, sum total prize<br />
 - Extract Days and Hours from Transactions and discretize by Day of Week and Period of times.<br />
 - Do RFM segmentation by generating Recency, Frequency, Monetary and Basket Size.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2.PNG?raw=true)<br /><br />
