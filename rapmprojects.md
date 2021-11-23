@@ -1,5 +1,5 @@
 # Data Analytics Projects with Rapid Miner Studio.
-This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
+This page indicates Data Mining by Rapid Miner Studio such as Association Rules, Segmentation, Clustering, Machine Learning, Feature Selection<br />
 ## 1. Association Rules
 **Objective:** To find Frequent Item Sets and Association Rules for making Maketing Promotions<br />
 **Dataset:** Basic example transactions of Super Market.<br />
