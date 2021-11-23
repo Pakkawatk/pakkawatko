@@ -9,11 +9,11 @@ This page is about demonstrations of Data Mining by Rapid Miner Studio.<br />
 - Transform value number to Binomial ( True and False )<br />
 - FP-Growth, minimum support = 0.5<br />
 - Association Rules, Minimum confidence = 0.8<br />
-<br />![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso2.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso2.PNG?raw=true)<br /><br />
 Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
-<br />![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
 **Association Rules:** Minimum confidence = 0.8<br /> 
-<br />![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
 **Result:** We can make promotions by above frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one. <br />
 
 ### 2. Segmentation
