@@ -36,7 +36,7 @@ Shopping period of each customers.<br />
 - **Conclusion:** We got RFM table and shopping period for analyzing Marketing Campaign and Clustering.<br />
 
 ### 3. Clustering
-**Objective:** To segment the customers by RFM method and frequent shopping time of each customers for making Marketing Campaign<br />
+**Objective:** To define cluster of customers which grouping by RFM in order to making Marketing Campaign for individual clusters.<br />
 **Dataset:** RFM segmentation.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
 **Process:**
