@@ -1,7 +1,7 @@
 # Data Analytics Projects with Rapid Miner Studio.
-This page indicates Data Mining by Rapid Miner Studio such as Association Rules, Segmentation(RFM), Clustering, Machine Learning in a nut shell<br />
+This page indicates Data Mining by Rapid Miner Studio such as Association Rules, Segmentation(RFM), Clustering, Machine Learning in a nut shell.<br />
 ## 1. Association Rules
-**Objective:** To find Frequent Item Sets and Association Rules for making Maketing Promotions<br /><br />
+**Objective:** To find Frequent Item Sets and Association Rules for making Maketing Promotions.<br /><br />
 **Dataset:** Basic example transactions of Super Market.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
 **Process:**
@@ -15,10 +15,10 @@ Result of FP-Growth method to find frequent item sets at minimum support = 0.5<b
 Result of Association Rules, to find Lift at minimum confidence = 0.8<br /> 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
 
-- **Conclusion:** We can make promotions by above frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one. <br />
+- **Conclusion:** We can make promotions by above frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one.<br />
 
 ## 2. Segmentation
-**Objective:** To segment the customers by RFMB method and frequent shopping time of each customers for making Marketing Campaigns<br /><br />
+**Objective:** To segment the customers by RFMB method and frequent shopping time of each customers for making Marketing Campaigns.<br /><br />
 **Dataset:** Transactions of Shopping Mall.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
 **Process:**
