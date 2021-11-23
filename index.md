@@ -29,7 +29,8 @@ _*Some confidential details was censored._<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
 
 ### 4. Data Anlytics with Rapidminer Studio.<br />
-- **Skill level:** Professional Certification [View My Projects>>](https://pakkawatk.github.io/portfolio/rapmprojects)<br />
+- **Skill level:** Professional Certification (ETL, Cleansing, Feature Engineering, Association Rules, Segmentation(RFM), Clustering, Machine Learning, Feature Selection)
+ [View My Projects>>](https://pakkawatk.github.io/portfolio/rapmprojects)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
 
 ### 4.Cloud Platform Projects.<br />
