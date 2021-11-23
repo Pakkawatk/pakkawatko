@@ -18,19 +18,19 @@ Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
 
 ### 2. Segmentation
 
-**Objective:** To Segment the customers by RFM method and frequent shopping time of each customers<br />
+**Objective:** To segment the customers by RFM method and frequent shopping time of each customers<br />
 **Dataset:** Transactions of Shopping Mall.<br />
-<br />![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
 **Process:**
 - Do feature engineering, sum total prize<br />
 - Extract Days and Hours from Transactions and discretize by Day of Week and Period of times.<br />
 - Do RFM segmentation by generating Recency, Frequency, Monetary and Basket Size.<br />
-<br />![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2.PNG?raw=true)<br /><br />
-<br />![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2_1.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2_1.PNG?raw=true)<br /><br />
 RFM for each customers.<br />
-<br />![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm3.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm3.PNG?raw=true)<br /><br />
 Access period of times for each customer.<br />
-<br />![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
 **Result:** We got RFM table for analyzing marketing campains in appropriate shopping times for individual customers .<br />
 
 ### 3. Clustering
