@@ -29,7 +29,7 @@ Using FP-Growth method to find frequent item sets at minimum support = 0.5<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm2_1.PNG?raw=true)<br /><br />
 RFM for each customers.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm3.PNG?raw=true)<br /><br />
-Access period of times for each customer.<br />
+Shopping period of each customers.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
 **Result:** We got RFM table for analyzing marketing campains in appropriate shopping times for individual customers .<br />
 
