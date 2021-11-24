@@ -1,5 +1,6 @@
 # Data Analytics Projects with Rapid Miner Studio.
-This page indicates Data Mining by Rapid Miner Studio such as Association Rules, Segmentation(RFM), Clustering, Machine Learning in a nut shell.<br />
+This page briefly indicates data projects by Rapid Miner Studio while I'm studying at DPU<br />
+
 ## 1. Association Rules
 **Objective:** To find Frequent Item Sets and Association Rules for making Maketing Promotions.<br /><br />
 **Dataset:** Basic example transactions of Super Market.<br />
