@@ -14,10 +14,10 @@ English TOEIC = 710 in 2014<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
 
 ### My Cheat Sheet
-[Python for Data Science>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
-[Python for Data Engineering>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
-[SQL>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
-[Unix/Shell>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
+[[Python for Data Science]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
+[[Python for Data Engineering]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
+[[SQL]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
+[[Unix/Shell]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
 
 # My Data Projects.<br />
 
