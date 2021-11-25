@@ -13,15 +13,28 @@ English TOEIC = 710 in 2014<br />
 ### SOFTWARE.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
 
+### My Cheat Sheet
+[Python for Data Science>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
+[Python for Data Engineering>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
+[SQL>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
+[Unix/Shell>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
+
 # My Data Projects.<br />
 
-### 1. Visualization Reports by Power BI.<br /> 
-Created KPI, Summary, Ad-Hoc report and finding insights by visualization for Process Engineering Department.<br />
-**Skill level:** Intermediate. ( ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M ) [More Details>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
+### 1. Data Analytics with Python.<br /> 
+Masket Basket analysis, Customer Segmentation (RFM), Machine Learning<br />
+[View My Projects>>](https://pakkawatk.github.io/portfolio/pythonprojects)<br /><br />
+
+### 2. Data Anlytics with Rapidminer Studio.<br />
+**Skill level:** Professional Certification. (ETL, Cleansing, Feature Engineering, Association Rules, Segmentation(RFM), Clustering, Machine Learning)<br />
+ [View My Projects>>](https://pakkawatk.github.io/portfolio/rapmprojects)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
+
+### 3. Visualization Reports by Power BI.<br /> 
+As a Citizen Data Analyst I create KPI, Summary, Ad-Hoc reports and finding insights by visualization for Process Engineering Department.<br />
+**Skill level of Power BI:** Intermediate. ( ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M ) [More Details>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 _*Some confidential details was censored._<br />
-
-### 2. Data Analytics and Machine Learning with Python.<br /> 
 
 
 ### 3. Machine Learning Competion at TMLCC.<br />
