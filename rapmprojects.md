@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Data Analytics Projects with Rapid Miner Studio.
 This page briefly indicates data projects by Rapid Miner Studio while I'm studying at DPU.<br />
 
