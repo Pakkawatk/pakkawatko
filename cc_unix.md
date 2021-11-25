@@ -14,7 +14,7 @@ File Commands.
 |4.| cd dir |Change directory to dir|
 |5.| cd |Change to home directory|
 |6.| pwd |Show current working directory|
-|7.| mkdir |dir Creating a directory dir|
+|7.| mkdir dir |Creating a directory dir|
 |8.| cat >file |Places the standard input into the file|
 |9.| more file |Output the contents of the file|
 |10.| head file |Output the first 10 lines of the file|
