@@ -4,7 +4,7 @@ layout: default
 
 # Unix/Linux Command Reference.
 
-**File Commands**
+**File Commands.**
 
 | No. |   Commands   | Description |
 |  -  | ------------ | ----------- |
@@ -30,7 +30,7 @@ layout: default
 |20.| mv file1 file2 |Rename or move file1 to file2,if file2 is an existing directory|
 |21.| ln -s file link |Create symbolic link link to file|
 
-### Process management.
+**Process management.**
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
@@ -43,13 +43,13 @@ layout: default
 |7.| fg |Brings the most recent job to foreground|
 |8.|fg n |Brings job n to the foreground|
 
-### File permission.
+**File permission.**
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
 |1.| chmod octal file |Change the permission of file to octal,which can be found separately for user,group,world by adding,<br />• 4-read(r)<br />• 2-write(w)<br />• 1-execute(x)|
 
-### Searching.
+**Searching.**
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
@@ -61,7 +61,7 @@ layout: default
 |6.| pgrep pattern |Searches for all the named processes , that matches with the pattern and, by default, returns their ID|
 
 
-### System Info.
+**System Info.**
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
@@ -81,7 +81,7 @@ layout: default
 |14.| whereis app |Show possible locations of app|
 |15.| which app |Show which applications will be run by default|
 
-### Compression.
+**Compression.**
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
@@ -94,7 +94,7 @@ layout: default
 |7.| gzip file |Compresses file and renames it to file.gz|
 |8.| gzip -d file.gz |Decompresses file.gz back to file|
 
-### Network.
+**Network.**
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
@@ -105,7 +105,7 @@ layout: default
 |5.| wget file |Download file|
 |6.| wget -c file |Continue a stopped download|
 
-### Shortcuts.
+**Shortcuts.**
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
