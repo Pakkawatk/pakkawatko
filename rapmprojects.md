@@ -1,22 +1,5 @@
----
-layout: default
----
-
-## B collapsible section with markdown
-<details>
-<summary>ddddClick to expand!</summary>
-<p>
-  
-## Heading
-1. A numbered
-2. list
-* With some
-* Sub bullets
-  
-</p>
-</details>
-
 # Data Analytics Projects with Rapid Miner Studio.
+[<<Home](https://pakkawatk.github.io/portfolio)<br />
 This page briefly indicates data projects by Rapid Miner Studio while I'm studying at DPU.<br />
 
 ## 1. Association Rules.
