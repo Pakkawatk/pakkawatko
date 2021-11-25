@@ -1,8 +1,7 @@
 
-| File Commands| Description |
-| ------------ | ----------- |
-| Header      | Title       |
-| ls   | Directory listing        |
+| No. | File Commands| Description |
+|  -  | ------------ | ----------- |
+|1.|ls|Directory listing|
 
 
 ###File Commands
