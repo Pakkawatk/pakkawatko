@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # Unix/Linux Command Reference.
