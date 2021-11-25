@@ -2,7 +2,6 @@
 layout: page
 ---
 
-<div align="center">
 # Data Analytics Projects with Rapid Miner Studio.
 This page briefly indicates data projects by Rapid Miner Studio while I'm studying at DPU.<br />
 
@@ -66,4 +65,3 @@ Result of Association Rules, to find Lift at minimum confidence = 0.8.<br />
 **Confusion Matrix.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML3.PNG?raw=true)<br /><br />
 
-</div>
