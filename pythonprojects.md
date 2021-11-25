@@ -33,8 +33,7 @@ This page briefly indicates my Data Analytics projects with Python.<br />
   - Encode numerical into binary value.<br />
   - Filter the Transactions those buying more than 1 item.<br />
   - Apply Apriori Algorithm which minimum support = 0.03 (3%).<br />
-  - Apply Association Rules.<br />
-  - Calculate RFM score and define customer level.<br /><br />
+  - Apply Association Rules.<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA3.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA4.PNG.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA5.PNG.PNG?raw=true)<br /><br />
