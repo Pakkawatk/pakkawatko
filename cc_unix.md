@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 # Unix/Linux Command Reference.
