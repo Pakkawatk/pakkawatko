@@ -2,35 +2,27 @@
 layout: page
 ---
 
+<p style="text-align: center;">
 # Data Analytics Projects with Rapid Miner Studio.
 This page briefly indicates data projects by Rapid Miner Studio while I'm studying at DPU.<br />
 
 ## 1. Association Rules.
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Objective
-  To find Frequent Item Sets and Association Rules for making Maketing Promotions.<br /><br />
-  ## Dataset
-  Basic example transactions of Super Market.<br />
+**Objective:** To find Frequent Item Sets and Association Rules for making Maketing Promotions.<br /><br />
+**Dataset:** Basic example transactions of Super Market.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
-  
-  ### Process
-    * Transform table by pivot product name and sum value.<br />
-    * Transform number to binomial. ( True and False )<br />
-    * Apply FP-Growth method, minimum support = 0.5.<br />
-    * Apply Association Rules, Minimum confidence = 0.8.<br />
+**Process:**<br />
+  - Transform table by pivot product name and sum value.<br />
+  - Transform number to binomial. ( True and False )<br />
+  - Apply FP-Growth method, minimum support = 0.5.<br />
+  - Apply Association Rules, Minimum confidence = 0.8.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso2.PNG?raw=true)<br /><br />
-  Result of FP-Growth method to find frequent item sets at minimum support = 0.5.<br />
+Result of FP-Growth method to find frequent item sets at minimum support = 0.5.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
-  Result of Association Rules, to find Lift at minimum confidence = 0.8.<br /> 
+Result of Association Rules, to find Lift at minimum confidence = 0.8.<br /> 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
-  ### Conclusion
-  We can make promotions by above frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one.
-</details>
+**Conclusion:** We can make promotions by above frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one.<br />
 
 ## 2. Segmentation.
-
 **Objective:** To segment the customers by RFMB method and frequent shopping time of each customers for making Marketing Campaigns.<br /><br />
 **Dataset:** Transactions of Shopping Mall.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
@@ -44,8 +36,7 @@ This page briefly indicates data projects by Rapid Miner Studio while I'm studyi
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm3.PNG?raw=true)<br /><br />
 **Shopping period of each customers.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br />
-  - **Conclusion:** We got RFMB table and shopping period for analyzing Marketing Campaign and Clustering.
-
+**Conclusion:** We got RFMB table and shopping period for analyzing Marketing Campaign and Clustering.<br />
 
 ## 3. Clustering.
 **Objective:** To define cluster of customers which grouping by RFMB in order to making Marketing Campaign for individual clusters.<br /><br />
@@ -74,3 +65,5 @@ This page briefly indicates data projects by Rapid Miner Studio while I'm studyi
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML2.PNG?raw=true)<br /><br />
 **Confusion Matrix.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML3.PNG?raw=true)<br /><br />
+
+</p>
