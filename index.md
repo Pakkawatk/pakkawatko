@@ -1,4 +1,4 @@
-## Profile
+# Profile
 
 |  |      |
 |  -  | ------------ |
@@ -24,7 +24,7 @@ English TOEIC = 710 in 2014<br />
 [[SQL]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
 [[Unix/Linux]](https://pakkawatk.github.io/portfolio/cc_unix)
 
-## My Data Projects.<br />
+# My Data Projects.<br />
 
 ### 1. Data Analytics with Python.<br /> 
 Masket Basket analysis, Customer Segmentation (RFM), Machine Learning<br />
