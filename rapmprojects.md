@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 
 # Data Analytics Projects with Rapid Miner Studio.
 This page briefly indicates data projects by Rapid Miner Studio while I'm studying at DPU.<br />
