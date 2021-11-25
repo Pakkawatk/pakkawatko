@@ -8,7 +8,6 @@ layout: default
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
-|     |              |             |
 |1.| ls|Directory listing|
 |2.| ls -al |Formatted listing with hidden files|
 |3.| ls -lt |Sorting the Formatted listing by time modification|
@@ -113,6 +112,7 @@ layout: default
 |6.| wget -c file |Continue a stopped download|
 
 ### Shortcuts.
+
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
 ||||
