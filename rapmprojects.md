@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # Data Analytics Projects with Rapid Miner Studio.
@@ -11,17 +11,16 @@ This page briefly indicates data projects by Rapid Miner Studio while I'm studyi
   <summary>Click to expand!</summary>
   
   ## Objective
-  
   To find Frequent Item Sets and Association Rules for making Maketing Promotions.<br /><br />
   ## Dataset
   Basic example transactions of Super Market.<br />
-    ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
+  ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
   
   ### Process
-      * Transform table by pivot product name and sum value.<br />
-      * Transform number to binomial. ( True and False )<br />
-      * Apply FP-Growth method, minimum support = 0.5.<br />
-      * Apply Association Rules, Minimum confidence = 0.8.<br />
+  * Transform table by pivot product name and sum value.<br />
+  * Transform number to binomial. ( True and False )<br />
+  * Apply FP-Growth method, minimum support = 0.5.<br />
+  * Apply Association Rules, Minimum confidence = 0.8.<br />
   ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso2.PNG?raw=true)<br /><br />
   Result of FP-Growth method to find frequent item sets at minimum support = 0.5.<br />
   ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso3.PNG?raw=true)<br /><br />
