@@ -7,8 +7,8 @@ layout: page
 ###  File Commands.
 
 | No. |  Commands| Description |
-
 |  -  | ------------ | ----------- |
+||||
 |1.| ls|Directory listing|
 |2.| ls -al |Formatted listing with hidden files|
 |3.| ls -lt |Sorting the Formatted listing by time modification|
