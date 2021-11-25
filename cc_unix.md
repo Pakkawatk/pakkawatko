@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # Unix/Linux Command Reference.
@@ -34,7 +34,6 @@ layout: default
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
-||||
 |1.| ps |To display the currently working processes|
 |2.| top |Display all running process|
 |3.| kill pid |Kill the process with given pid|
@@ -48,14 +47,12 @@ layout: default
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
-||||
 |1.| chmod octal file |Change the permission of file to octal,which can be found separately for user,group,world by adding,<br />• 4-read(r)<br />• 2-write(w)<br />• 1-execute(x)|
 
 ### Searching.
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
-||||
 |1.| grep pattern file |Search for pattern in file|
 |2.| grep -r pattern dir |Search recursively for pattern in dir|
 |3.| command | grep pattern |Search pattern in the output of a command|
@@ -68,7 +65,6 @@ layout: default
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
-||||
 |1.| date |Show the current date and time|
 |2.| cal |Show this month's calender|
 |3.| uptime |Show current uptime|
@@ -89,7 +85,6 @@ layout: default
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
-||||
 |1.| tar cf file.tar file |Create tar named file.tar containing file|
 |2.| tar xf file.tar |Extract the files from file.tar|
 |3.| tar czf file.tar.gz files |Create a tar with Gzip compression|
@@ -103,7 +98,6 @@ layout: default
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
-||||
 |1.| ping host |Ping host and output results|
 |2.|whois domain |Get whois information for domains|
 |3.| dig domain |Get DNS information for domain|
@@ -115,7 +109,6 @@ layout: default
 
 | No. |  Commands| Description |
 |  -  | ------------ | ----------- |
-||||
 |1.| ctrl+c |Halts the current command|
 |2.| ctrl+z |Stops the current command, resume with fg in the foreground or bg in the background|
 |3.| ctrl+d |Logout the current session, similar to exit|
