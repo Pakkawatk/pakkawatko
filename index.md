@@ -17,7 +17,7 @@ English TOEIC = 710 in 2014<br />
 [[Python for Data Science]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
 [[Python for Data Engineering]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
 [[SQL]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
-[[Unix/Shell]](https://pakkawatk.github.io/portfolio/cc_unix)
+[[Unix/Linux]](https://pakkawatk.github.io/portfolio/cc_unix)
 
 # My Data Projects.<br />
 
