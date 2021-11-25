@@ -13,7 +13,7 @@ layout: default
 * With some
 * Sub bullets
   
-<p>
+</p>
 </details>
 
 # Data Analytics Projects with Rapid Miner Studio.
