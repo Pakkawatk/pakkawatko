@@ -37,4 +37,4 @@ This page briefly indicates my Data Analytics projects with Python.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA3.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA4.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA5.PNG?raw=true)<br /><br />
-**Conclusion:** Finally, we got result for making Sales Promotion based on % Confidence and Lift > 1.00.<br />
+**Conclusion:** Finally, we got Item Sets for making Sales Promotion based on % Confidence and Lift > 1.00.<br />
