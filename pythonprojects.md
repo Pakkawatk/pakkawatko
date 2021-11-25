@@ -1,5 +1,5 @@
 [<<Home](https://pakkawatk.github.io/portfolio)<br />
-# My Python Data Science Projects.
+# My Python Data Anlytics Projects.
 This page briefly indicates my Data Analytics projects with Python.<br />
 ### 1. Customer Segmentation by Recency, Frequency, Monetary (RFM).
 [View Code>>](https://pakkawatk.github.io/portfolio)<br /><br />
@@ -19,7 +19,7 @@ This page briefly indicates my Data Analytics projects with Python.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM4.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM5.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM6.PNG?raw=true)<br /><br />
-**Conclusion:** Finally, we got result for making Marketing Campaign for each segments.<br />
+**Conclusion:** Finally, we got result for making marketing campaign for each segments.<br />
 
 ### 2. Market Basket Analysis and Association Rules.
 [View Code>>](https://pakkawatk.github.io/portfolio)<br /><br />
@@ -29,7 +29,7 @@ This page briefly indicates my Data Analytics projects with Python.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA1.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA2.PNG?raw=true)<br /><br />
 **Process**<br />
-  - Drop NA records, Filter only positive Quantity and Customers in "UK".<br />
+  - Drop NA records, filter only positive "Quantity" and "Customers" in "UK".<br />
   - Encode numerical into binary value.<br />
   - Filter the Transactions those buying more than 1 item.<br />
   - Apply Apriori Algorithm which minimum support = 0.03 (3%).<br />
@@ -37,4 +37,4 @@ This page briefly indicates my Data Analytics projects with Python.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA3.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA4.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA5.PNG?raw=true)<br /><br />
-**Conclusion:** Finally, we got Item Sets for making Sales Promotion based on % Confidence and Lift > 1.00.<br />
+**Conclusion:** Finally, we got item sets for making Sales Promotion based on % confidence and lift > 1.00.<br />
