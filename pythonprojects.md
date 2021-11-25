@@ -13,8 +13,9 @@ This page briefly indicates my Data Analytics projects with Python.<br />
   - Create snapshot date ( Recency = snapshot_date (Maxdate of AllInvoiceDate + 1) - MaxDate of each Customer)<br />
   - Generate Recency, Frequency, Monetary and group by CustomerID.<br />
   - Discretize RFM by quantile.<br />
-  - Calculate RFM score and define customer level.<br />
+  - Calculate RFM score and define customer level.<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM3.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM4.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM5.PNG?raw=true)<br /><br />
-**Conclusion:** Finally, we got result for making Marketing Campaign for each segments.
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM6.PNG?raw=true)<br /><br />
+**Conclusion:** Finally, we got result for making Marketing Campaign for each segments.<br />
