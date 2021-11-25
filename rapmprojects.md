@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 # Data Analytics Projects with Rapid Miner Studio.
