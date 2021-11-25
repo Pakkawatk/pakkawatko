@@ -1,18 +1,18 @@
-# Profile
+## Profile
 
 |  |      |
 |  -  | ------------ |
 |![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/logo.png?raw=true)|Pakkawat Komonman<br />Phone: 084-342-6242<br />E-mail: pakkawatko@gmail.com<br /> Sr.Process Engineer and Data Analyst.<br />|
 
-#### EDUCATION.<br /> 
+### EDUCATION.<br /> 
 - Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021)<br />
 [Course Curriculum>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 - Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br /><br />
 
-#### LANGUAGE.<br />
+### LANGUAGE.<br />
 English TOEIC = 710 in 2014<br />
 
-#### PROGRAMMING.<br />
+### PROGRAMMING.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/prog.png?raw=true)<br />
 
 ### SOFTWARE.<br />
@@ -24,7 +24,7 @@ English TOEIC = 710 in 2014<br />
 [[SQL]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
 [[Unix/Linux]](https://pakkawatk.github.io/portfolio/cc_unix)
 
-# My Data Projects.<br />
+## My Data Projects.<br />
 
 ### 1. Data Analytics with Python.<br /> 
 Masket Basket analysis, Customer Segmentation (RFM), Machine Learning<br />
