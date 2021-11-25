@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# A collapsible section with markdown
+## B collapsible section with markdown
 <details>
-<summary>Click to expand!</summary>
+<summary>ddddClick to expand!</summary>
 <p>
   
 ## Heading
