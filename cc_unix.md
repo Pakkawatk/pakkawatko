@@ -4,7 +4,7 @@ layout: default
 
 # Unix/Linux Command Reference.
 
-File Commands.
+**File Commands**
 
 | No. |   Commands   | Description |
 |  -  | ------------ | ----------- |
