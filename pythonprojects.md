@@ -35,6 +35,6 @@ This page briefly indicates my Data Analytics projects with Python.<br />
   - Apply Apriori Algorithm which minimum support = 0.03 (3%).<br />
   - Apply Association Rules.<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA3.PNG?raw=true)<br /><br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA4.PNG.PNG?raw=true)<br /><br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA5.PNG.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA4.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA5.PNG?raw=true)<br /><br />
 **Conclusion:** Finally, we got result for making Sales Promotion based on % Confidence and Lift > 1.00.<br />
