@@ -4,9 +4,9 @@ layout: default
 
 # Unix/Linux Command Reference.
 
-###  File Commands.
+File Commands.
 
-| No. |  Commands| Description |
+| No. |   Commands   | Description |
 |  -  | ------------ | ----------- |
 |1.| ls|Directory listing|
 |2.| ls -al |Formatted listing with hidden files|
@@ -55,7 +55,7 @@ layout: default
 |  -  | ------------ | ----------- |
 |1.| grep pattern file |Search for pattern in file|
 |2.| grep -r pattern dir |Search recursively for pattern in dir|
-|3.| command | grep pattern |Search pattern in the output of a command|
+|3.| command grep pattern |Search pattern in the output of a command|
 |4.| locate file |Find all instances of file|
 |5.| find . -name filename |Searches in the current directory (represented by a period) and below it, for files and directories with names starting with filename|
 |6.| pgrep pattern |Searches for all the named processes , that matches with the pattern and, by default, returns their ID|
