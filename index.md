@@ -1,5 +1,3 @@
-# My Portfolio
-
 ### Profile
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/logo.png?raw=true)
 Pakkawat Komonman<br /> 
