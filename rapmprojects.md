@@ -29,6 +29,7 @@ This page briefly indicates data projects by Rapid Miner Studio while I'm studyi
 ## 2. Segmentation.
 <details>
   <summary>Click to expand!</summary>
+  
   **Objective:** To segment the customers by RFMB method and frequent shopping time of each customers for making Marketing Campaigns.<br /><br />
   **Dataset:** Transactions of Shopping Mall.<br />
   ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
