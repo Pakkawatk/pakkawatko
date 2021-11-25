@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Unix/Linux Command Reference.
 
 ###  File Commands.
