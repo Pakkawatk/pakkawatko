@@ -13,6 +13,7 @@
 > English TOEIC = 710 in 2014<br />
 
 ### PROGRAMMING.<br />
+
 | Name |   Level   |
 |  --  | --------- |
 |MySQL, PosgreSQL|Intermidiate|
@@ -20,6 +21,7 @@
 |Unix, Linux|Intermidiate|
 
 ### SOFTWARE.<br />
+
 | Name |   Level   |
 |  --  | --------- |
 |Power BI|Intermidiate|
