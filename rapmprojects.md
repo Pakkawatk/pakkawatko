@@ -60,4 +60,4 @@ Result of Association Rules, to find Lift at minimum confidence = 0.8.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML2.PNG?raw=true)<br /><br />
 **Confusion Matrix.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML3.PNG?raw=true)<br /><br />
-
+[<<Home](https://pakkawatk.github.io/portfolio)<br />
