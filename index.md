@@ -55,17 +55,7 @@ As a Citizen Data Analyst at my company. I created KPI, Summary, Ad-Hoc reports 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 _*Some confidential details was censored._<br />
 
-
-### 3. Machine Learning Competion at TMLCC.<br />
-36th rank from 76 competitors as "Team Koalas" in Thailand Machine Learning for Chemistry Competition. The objective is predicting chemical property of MOF by ML Model with the lowest log of MAE score using XGBoost and Neural Network. [View My Projects>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br /><br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/tmlcc.PNG?raw=true)<br />
-
-### 4. Data Anlytics with Rapidminer Studio.<br />
-Market Basket Analysis and Association Rules, Segmentation(RFM), Clustering, Machine Learning<br />
- [View My Projects>>](https://pakkawatk.github.io/portfolio/rapmprojects)<br /><br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
-
-### 4.Cloud Platform Projects.<br />
+### 4. Cloud Platform Projects.<br />
 **Skill level:** xxxxx<br /> [View My Projects>>](https://pakkawatk.github.io/portfolio/rapmprojects)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
 
