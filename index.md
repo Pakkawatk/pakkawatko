@@ -10,13 +10,25 @@
 > - Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br /><br />
 
 ### LANGUAGE.<br />
-English TOEIC = 710 in 2014<br />
+> English TOEIC = 710 in 2014<br />
 
 ### PROGRAMMING.<br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/prog.png?raw=true)<br />
+| Name |   Level   |
+|  --  | --------- |
+|MySQL, PosgreSQL|Intermidiate|
+|Python, R for Data Science|Intermidiate|
+|Unix, Linux|Intermidiate|
 
 ### SOFTWARE.<br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/sw.png?raw=true)<br />
+| Name |   Level   |
+|  --  | --------- |
+|Power BI|Intermidiate|
+|Tableau|Beginner|
+|Rapidminer|Intermidiate|
+|Hadoop, Spark|Intermidiate|
+|Amazon Web Service (AWS)|Beginner|
+|Google Cloud Platform (GCP)|Beginner|
+|MS. Office|Intermidiate|
 
 ### My Cheat Sheet
 [[Python for Data Science]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
