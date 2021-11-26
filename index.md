@@ -24,7 +24,7 @@
 |  --  | --------- |
 |Power BI|Intermidiate|
 |Tableau|Beginner|
-|Rapidminer|Intermidiate|
+|Rapidminer|Professional Certificated|
 |Hadoop, Spark|Intermidiate|
 |Amazon Web Service (AWS)|Beginner|
 |Google Cloud Platform (GCP)|Beginner|
