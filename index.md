@@ -15,13 +15,13 @@
 ### SKILLS
 
 | Programming Literacy |   Level   |
-|  --  | --------- |
+| -------------------- | --------- |
 |MySQL, PosgreSQL|Intermidiate|
 |Python, R for Data Science|Intermidiate|
 |Unix, Linux|Intermidiate|
 
 | Software Literacy |   Level   |
-|  --  | --------- |
+| ----------------- | --------- |
 |Power BI|Intermidiate|
 |Tableau|Beginner|
 |Rapidminer|Professional Certificated|
