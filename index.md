@@ -7,7 +7,7 @@
 ### EDUCATIONS<br /> 
 > - Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021)<br />
 [Course Curriculum>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
-> - Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br /><br />
+> - Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br />
 
 ### LANGUAGE<br />
 > English TOEIC = 710 in 2014<br />
@@ -36,13 +36,12 @@
 [[SQL]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
 [[Unix/Linux]](https://pakkawatk.github.io/portfolio/cc_unix)
 
-## My Data Projects.<br />
+## My Data Projects.
 
 ### 1. Data Analytics with Python.
 Self-learning projects those using public dataset and Machine Learning Competition.<br />
 [- Customer Segmentation (RFM)](https://pakkawatk.github.io/portfolio/projects/python/rfm)<br />
 [- Masket Basket Analysis and Association Rules (MBA)](https://pakkawatk.github.io/portfolio/projects/python/mba)<br />
-
 
 ### 2. Data Anlytics with Rapidminer Studio.<br />
 Data Mining projects while I'm studying at DPU and also taking Professional Certification for Data Engineering. (ETL, Cleansing, Feature Engineering, Association Rules, Segmentation, Clustering, Feature Selection, Machine Learning)<br />
@@ -50,8 +49,8 @@ Data Mining projects while I'm studying at DPU and also taking Professional Cert
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
 
 ### 3. Visualization Reports by Power BI.<br /> 
-As a Citizen Data Analyst I create KPI, Summary, Ad-Hoc reports and finding insights by visualization for Process Engineering Department.<br />
-**Skill level of Power BI:** Intermediate. ( ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M ) [More Details>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
+As a Citizen Data Analyst at my company. I created KPI, Summary, Ad-Hoc reports and finding insights by visualization for Process Engineering Department.<br />
+**Skill level:** Intermediate. ( ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M ) [More Details>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
 _*Some confidential details was censored._<br />
 
