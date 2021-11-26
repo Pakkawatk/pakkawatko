@@ -4,25 +4,23 @@
 |  -  | ------------ |
 |![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/logo.png?raw=true)|Pakkawat Komonman<br />Phone: 084-342-6242<br />E-mail: pakkawatko@gmail.com<br /> Phayathai, Bangkok and Wang Noi Ayutthaya<br />Sr.Process Engineer and Data Analyst.<br />[Download Resume](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)|
 
-### EDUCATION.<br /> 
+### EDUCATIONS<br /> 
 > - Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021)<br />
 [Course Curriculum>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 > - Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br /><br />
 
-### LANGUAGE.<br />
+### LANGUAGE<br />
 > English TOEIC = 710 in 2014<br />
 
-### PROGRAMMING.<br />
+### SKILLS
 
-| Name |   Level   |
+| Programming Literacy |   Level   |
 |  --  | --------- |
 |MySQL, PosgreSQL|Intermidiate|
 |Python, R for Data Science|Intermidiate|
 |Unix, Linux|Intermidiate|
 
-### SOFTWARE.<br />
-
-| Name |   Level   |
+| Software Literacy |   Level   |
 |  --  | --------- |
 |Power BI|Intermidiate|
 |Tableau|Beginner|
@@ -38,16 +36,16 @@
 [[SQL]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
 [[Unix/Linux]](https://pakkawatk.github.io/portfolio/cc_unix)
 
-# My Data Projects.<br />
+## My Data Projects.<br />
 
 ### 1. Data Analytics with Python.
-
+Self-learning projects those using public dataset and Machine Learning Competition.<br />
 [- Customer Segmentation (RFM)](https://pakkawatk.github.io/portfolio/projects/python/rfm)<br />
 [- Masket Basket Analysis and Association Rules (MBA)](https://pakkawatk.github.io/portfolio/projects/python/mba)<br />
 
 
 ### 2. Data Anlytics with Rapidminer Studio.<br />
-**Skill level:** Professional Certification. (ETL, Cleansing, Feature Engineering, Association Rules, Segmentation(RFM), Clustering, Machine Learning)<br />
+Data Mining projects while I'm studying at DPU and also taking Professional Certification for Data Engineering. (ETL, Cleansing, Feature Engineering, Association Rules, Segmentation, Clustering, Feature Selection, Machine Learning)<br />
  [View My Projects>>](https://pakkawatk.github.io/portfolio/rapmprojects)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
 
