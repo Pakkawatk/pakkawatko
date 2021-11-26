@@ -42,6 +42,7 @@
 Self-learning projects those using public dataset and Machine Learning Competition.<br />
 [- Customer Segmentation (RFM)](https://pakkawatk.github.io/portfolio/projects/python/rfm)<br />
 [- Masket Basket Analysis and Association Rules (MBA)](https://pakkawatk.github.io/portfolio/projects/python/mba)<br />
+[- Machine Learning Competition at TMLCC using Neural Network and XGBoost](https://pakkawatk.github.io/portfolio/projects/python/tmlcc)<br />
 
 ### 2. Data Anlytics with Rapidminer Studio.<br />
 Data Mining projects while I'm studying at DPU and also taking Professional Certification for Data Engineering. (ETL, Cleansing, Feature Engineering, Association Rules, Segmentation, Clustering, Feature Selection, Machine Learning)<br />
