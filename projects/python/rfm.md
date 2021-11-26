@@ -12,6 +12,8 @@
   - Generate Recency, Frequency, Monetary and group by CustomerID.<br />
   - Discretize RFM by quantile.<br />
   - Calculate RFM score and define customer level.<br /><br />
+
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM2_1.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM3.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM4.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM5.PNG?raw=true)<br /><br />
