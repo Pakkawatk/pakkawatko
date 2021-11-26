@@ -28,7 +28,7 @@ English TOEIC = 710 in 2014<br />
 
 ### 1. Data Analytics with Python.<br /> 
 Masket Basket analysis, Customer Segmentation (RFM), Machine Learning<br />
-[1.Customer Segmentation (RFM)](https://pakkawatk.github.io/portfolio)<br /><br />
+[1.Customer Segmentation (RFM)](https://pakkawatk.github.io/portfolio/projects/python/rfm)<br /><br />
 [View My Projects>>](https://pakkawatk.github.io/portfolio/pythonprojects)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_cover.PNG?raw=true)<br />
 ### 2. Data Anlytics with Rapidminer Studio.<br />
