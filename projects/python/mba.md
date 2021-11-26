@@ -14,7 +14,7 @@
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA4.PNG?raw=true)<br /><br />
   - Apply Association Rules.<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA5.PNG?raw=true)<br /><br />
-**Conclusion:** Finally, we got item sets for making Sales Promotion based on % confidence and lift > 1.00.<br /><br />
+**Conclusion:** Finally, we got item sets for making sale promotions those are based on % confidence and lift > 1.00.<br /><br />
 
 ### Code
 
