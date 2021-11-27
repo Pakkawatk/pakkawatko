@@ -5,7 +5,7 @@ Pakkawat Komonman<br />Phone: 084-342-6242<br />
 E-mail: pakkawatko@gmail.com<br /> 
 Phayathai, Bangkok and Wang Noi Ayutthaya<br />
 Sr.Process Engineer and Data Analyst.<br />
-[Download Resume](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)|
+[Download Resume](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
 
 ### EDUCATIONS<br /> 
 > - Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021)<br />
