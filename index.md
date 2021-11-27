@@ -1,6 +1,6 @@
 # Profile
 
-<img src="https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/logo.jpg" alt="logo" width="60%"/>
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/logo.jpg?raw=true)<br />
 
 Pakkawat Komonman<br />Phone: 084-342-6242<br />
 E-mail: pakkawatko@gmail.com<br /> 
