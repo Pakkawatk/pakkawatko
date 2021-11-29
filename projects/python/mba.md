@@ -13,7 +13,7 @@
   - Apply Apriori Algorithm which minimum support = 0.03 (3%).<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA4.PNG?raw=true)<br />
   - Apply Association Rules with Lift >= 1.<br /><br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA5.PNG?raw=true)<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA5.PNG?raw=true)<br /><br />
 **Conclusion:** Finally, we got item sets for making sale promotions those are based on % confidence and lift > 1.00.<br />
 
 ### Code
