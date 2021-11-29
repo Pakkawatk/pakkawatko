@@ -270,9 +270,14 @@ conda install -c conda-forge shap
 
 ```
 
+```
+
 pip install evalml
 
 ```
+
+```
+
 import evalml
 
 ```
@@ -285,6 +290,7 @@ evalml.objectives.get_all_objective_names()
 ```
 
 ```
+
 # Split data
 X = df.drop(['MOFname', 'CO2_working_capacity [mL/g]'], axis=1)
 y = df['CO2_working_capacity [mL/g]']
