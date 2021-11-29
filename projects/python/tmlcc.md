@@ -15,7 +15,7 @@
 - Replace Void Volume <= 0 by Void Volume = Void Fraction/Density<br />
 - Drop NA records.<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof4.PNG?raw=true)<br />
-- Replace Surface Area <= 0 by "Surface Area Simulation function"<br />
+- Replace Surface Area <= 0 by "Surface Area Simulation function". (The function won't be mentioned in here)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof5.PNG?raw=true)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof6.PNG?raw=true)<br />
 **Machine Learning Neural Network:**
@@ -33,13 +33,6 @@
 - Log_MAE Train: 2.96, Log_MAE Test: 3.05
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof8.PNG?raw=true)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof9.PNG?raw=true)<br /><br />
-
-
-  - #Feature Engineering for DensityDrop NA records, filter only positive "Quantity" and "Customers" in "UK".<br />
-  - Encode numerical into binary value.<br />
-  - Filter the Transactions those buying more than 1 item.<br />
-  - Apply Apriori Algorithm which minimum support = 0.03 (3%).<br />
-  - Apply Association Rules.<br /><br />
 
 **Conclusion:** Finally, we got two models and send submisstion file to Codalab and then Codalab predict by using unseen dataset and the best model of my team is XGBoost that we got 32th rank of log MAE in competition.  <br />
 
