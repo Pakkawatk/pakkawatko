@@ -37,7 +37,7 @@
 ## My Data Projects.
 
 ### 1. Data Analytics with Python.
-Self-learning Data Science projects those using public datasets, Machine Learning Projects and Machine Learning Competition.<br />
+Self-learning about Data Analytics , Machine Learning and Machine Learning Competition using Python.<br />
 [- Customer Segmentation (RFM)](https://pakkawatk.github.io/portfolio/projects/python/rfm)<br />
 [- Masket Basket Analysis and Association Rules (MBA)](https://pakkawatk.github.io/portfolio/projects/python/mba)<br />
 [- Machine Learning Competition at TMLCC using Neural Network and XGBoost](https://pakkawatk.github.io/portfolio/projects/python/tmlcc)<br />
