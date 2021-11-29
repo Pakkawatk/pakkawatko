@@ -23,6 +23,8 @@ This page indicates my data visualizations that were built by me at my company.<
 
 **Triggering out of control parameters.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi6.png?raw=true)<br /><br />
+**Drill througn to explore value trend of parameters.**<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi8.png?raw=true)<br /><br />
 **Monitoring mean, SD of parameters.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi7.png?raw=true)<br /><br />
 
