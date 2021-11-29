@@ -371,6 +371,8 @@ X.shape
 
 ```
 
+```
+
 X_num = df_feat.iloc[:,:11].values
 X_num.shape
 
@@ -400,7 +402,6 @@ joblib.dump(scaler, 'ss_scaler_2.pkl')
 y = df['CO2_working_capacity [mL/g]'].values
 
 ```
-
 
 ```
 
