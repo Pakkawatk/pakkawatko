@@ -20,6 +20,8 @@
  
 </details>
 
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/skills.png?raw=true)<br />
+
 | Programming Literacy |   Level   |
 | -------------------- | --------- |
 |MySQL, PosgreSQL|Intermidiate|
