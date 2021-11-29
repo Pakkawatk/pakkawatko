@@ -23,12 +23,14 @@
 - Normalize by Standard Scaler to balance values.<br />
 - Split train data size = 0.3.<br />
 - Apply Neural Network rulu = 12 layers, epochs=5000, batch_size=10000<br />
+- Apply train data set and predict test data set.
 - log_mae test = 3.28<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof7.PNG?raw=true)<br />
 **Machine Learning XGBoost:**
 - Find Best Model via AutoML and the best model is XGBoost.<br />
 - Normalize by Standard Scaler to balance values.<br />
 - Split train data<br />
+- Apply train data set and predict test data set.
 - Apply XGBoost<br />
 - Log_MAE Train: 2.96, Log_MAE Test: 3.05
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof8.PNG?raw=true)<br />
