@@ -12,6 +12,16 @@
 
 ### SKILLS
 
+
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  MySQL, PosgreSQL|Intermidiate|
+  Python, R for Data Science|Intermidiate|
+ 
+</details>
+
 | Programming Literacy |   Level   |
 | -------------------- | --------- |
 |MySQL, PosgreSQL|Intermidiate|
