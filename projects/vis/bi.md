@@ -23,7 +23,7 @@ The reports include "Pop Up Bar"(bookmarks), Custom Tooltips, Drill Through, som
 **Dataset:** Process Engineering Data Warehouse.<br /><br />
  - **Triggering out of control parameters.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi6.jpg?raw=true)<br /><br />
- - **Drill througn to explore value trend of parameters.**<br />
+ - **Drill through to explore value trend of parameters.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi8.png?raw=true)<br /><br />
  - **Monitoring mean, SD of parameters.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi7.jpg?raw=true)<br /><br />
