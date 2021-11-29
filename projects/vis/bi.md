@@ -6,7 +6,7 @@ The reports include "Pop Up Bar"(bookmarks), Custom Tooltips, Drill Through, som
 
 ### 1. KPI report. ( Yield and Defect )
 **Objective:** To monitor daily production yield and defect.<br />
-**Dataset:** Process Engineering Data Warehouse.<br /><br />
+**Dataset:** Process Engineering Data Warehouse.<br />
  - **KPI overall by daily.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi1.png?raw=true)<br />
  - **Defects trend over times.**<br />
