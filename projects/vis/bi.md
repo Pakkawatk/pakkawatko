@@ -20,7 +20,7 @@ The reports include "Pop Up Bar"(bookmarks), Custom Tooltips, Drill Through, som
 
 ### 2. Critical parameters monitoring report.
 **Objective:** To monitor and trigger the critical parameters those out of control.<br />
-**Dataset:** Process Engineering Data Warehouse.<br />
+**Dataset:** Process Engineering Data Warehouse.<br /><br />
 **Triggering out of control parameters.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi6.jpg?raw=true)<br /><br />
 **Drill througn to explore value trend of parameters.**<br />
