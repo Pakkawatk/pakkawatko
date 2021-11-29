@@ -18,7 +18,7 @@ The reports include "Pop Up Bar"(bookmarks), Custom Tooltips, Drill Through, som
 **Drill Through to explore deep informations such as lots number, Machine number, Input/Output per lot.**
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi5.jpg?raw=true)<br /><br />
 
-### 2. Critical parameters monitoring report. ( Yield and Defect )
+### 2. Critical parameters monitoring report.
 **Objective:** To monitor and trigger the critical parameters those out of control.<br />
 **Dataset:** Process Engineering Data Warehouse.<br />
 **Triggering out of control parameters.**<br />
