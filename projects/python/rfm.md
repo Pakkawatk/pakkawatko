@@ -1,24 +1,23 @@
 [<<Home](https://pakkawatk.github.io/portfolio)<br />
-### Customer Segmentation by Recency, Frequency, Monetary (RFM).
+## Customer Segmentation by Recency, Frequency, Monetary (RFM).
 **Objective:** To segment the customers in order to analyze shopping behavior and making campaign for each segments by RFM method.<br />
-**Dataset:** Transactions of e-commerce.<br /><br />
+**Dataset:** Transactions of e-commerce.<br />
 **Exploratory Data Analysis:**<br /><br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM1.PNG?raw=true)<br /><br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM2.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM1.PNG?raw=true)<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM2.PNG?raw=true)<br />
 **Process:**<br />
   - Convert InvoiceDate from object into datetime.<br />
   - Create TotalSum column.<br />
   - Create snapshot date ( Recency = snapshot_date (Maxdate of AllInvoiceDate + 1) - MaxDate of each Customer)<br />
   - Generate Recency, Frequency, Monetary and group by CustomerID.<br /><br />
-  
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM2_1.PNG?raw=true)<br /><br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM3.PNG?raw=true)<br /><br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM2_1.PNG?raw=true)<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM3.PNG?raw=true)<br />
 - Discretize RFM by quantile.<br />
 - Calculate RFM score and define customer level.<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM4.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM5.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM6.PNG?raw=true)<br /><br />
-**Conclusion:** Finally, we got result for making marketing campaign for each segments.<br /><br />
+**Conclusion:** Finally, we got result for making marketing campaign for each segments.<br />
 
 ### Code
 
