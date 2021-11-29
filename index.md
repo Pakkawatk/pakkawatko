@@ -50,7 +50,7 @@ Data Mining projects while I'm studying at DPU and also taking Professional Cert
 ### 3. Visualization Reports by Power BI.<br /> 
 As a Citizen Data Analyst at my company. I created KPI, Summary, Ad-Hoc reports and finding insights by visualization for Process Engineering Department.<br />
  - Skill level: Intermediate. ( ETL, Hide/Show objects using Bookmarks, Dill through, Custom tooltips, Basic DAX and M ) [More Details>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/pbi.png?raw=true)<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi0.png?raw=true)<br />
 _*Some confidential details was censored._<br />
 
 ### 4. Cloud Platform Projects.<br />
