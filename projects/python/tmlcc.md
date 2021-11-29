@@ -28,7 +28,7 @@
 **Machine Learning XGBoost:**
 - Find Best Model via AutoML and the best model is XGBoost.<br />
 - Normalize by Standard Scaler to balance values.<br />
-- Split train data size = 0.3.<br />
+- Split train data<br />
 - Apply XGBoost<br />
 - Log_MAE Train: 2.96, Log_MAE Test: 3.05
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof8.PNG?raw=true)<br />
