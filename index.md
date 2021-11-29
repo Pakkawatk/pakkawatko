@@ -17,13 +17,11 @@
   
     Official Certificate: Rapidminer Professional<br />
     Intermidiate: Python, MySQL, PosgreSQL, Unix, Linux, Power BI, MS Office<br />
-    Beginner (Learning): R, Hadoop, Spark, Amazon Web Services, Google Cloud Platform, Mongo DB, H20<br />
+    Beginner (Learning): R, Hadoop ( Map/Reduce ), Spark ( Map/Reduce ), Amazon Web Services, Google Cloud Platform, Mongo DB, H20<br />
  
 </details>
 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/skills.png?raw=true)<br />
-
-
 
 ### My Cheat Sheet
 [[Python for Data Science]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
