@@ -3,19 +3,18 @@
 [Download Resume>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 
 ### EDUCATIONS<br /> 
-> - Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021)<br />
+- Studying Master’s Degrees in Big Data Engineering, Dhurakij Pundit University. (Started 2021)<br />
 [Course Curriculum>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
-> - Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br />
+- Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br />
 
 ### LANGUAGE<br />
-> English TOEIC = 710 in 2014<br />
+- English TOEIC = 710 in 2014<br />
 
 ### SKILLS
 
-
 # A collapsible section with markdown
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Literacy details>></summary>
   
   MySQL, PosgreSQL Intermidiate <br />
   Python, R for Data Science Intermidiate<br />
