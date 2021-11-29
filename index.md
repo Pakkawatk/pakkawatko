@@ -22,21 +22,7 @@
 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/skills.png?raw=true)<br />
 
-| Programming Literacy |   Level   |
-| -------------------- | --------- |
-|MySQL, PosgreSQL|Intermidiate|
-|Python, R for Data Science|Intermidiate|
-|Unix, Linux|Intermidiate|
 
-| Software Literacy |   Level   |
-| ----------------- | --------- |
-|Power BI|Intermidiate|
-|Tableau|Beginner|
-|Rapidminer|Professional Certificated|
-|Hadoop, Spark|Intermidiate|
-|Amazon Web Service (AWS)|Beginner|
-|Google Cloud Platform (GCP)|Beginner|
-|MS. Office|Intermidiate|
 
 ### My Cheat Sheet
 [[Python for Data Science]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
