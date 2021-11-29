@@ -11,7 +11,7 @@ The reports include "Pop Up Bar"(bookmarks), Custom Tooltips, Drill Through, som
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi1.png?raw=true)<br />
  - **Defects trend over times.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi2.png?raw=true)<br />
- - **Pop up slider to filter.**<br />
+ - **Pop up bar to filter, change chart, reset page.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi3.png?raw=true)<br />
  - **Tooltips show the top defects while hovering mouse on chart.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi4.png?raw=true)<br />
