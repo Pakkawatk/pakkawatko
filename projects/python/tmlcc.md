@@ -502,6 +502,8 @@ X.shape
 
 ```
 
+```
+
 # Normalize Features
 
 scaler = joblib.load('ss_scaler_2.pkl')
