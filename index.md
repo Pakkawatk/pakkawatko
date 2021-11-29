@@ -15,12 +15,9 @@
 <details>
   <summary>Literacy details</summary>
   
-    <b>Official Certificate:</b> 
-    Rapidminer Professional.<br />
-    <b>Intermidiate:</b>
-    Python, MySQL, PosgreSQL, Unix, Linux, Power BI, MS Office<br />
-    <b>Beginner (Learning):</b>
-    R, Hadoop, Spark, Amazon Web Services, Google Cloud Platform, Mongo DB, H20 <br />
+    Official Certificate: Rapidminer Professional
+    Intermidiate:         Python, MySQL, PosgreSQL, Unix, Linux, Power BI, MS Office
+    Beginner (Learning):  R, Hadoop, Spark, Amazon Web Services, Google Cloud Platform, Mongo DB, H20
  
 </details>
 
