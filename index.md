@@ -17,8 +17,8 @@
 <details>
   <summary>Click to expand!</summary>
   
-  MySQL, PosgreSQL|Intermidiate|
-  Python, R for Data Science|Intermidiate|
+  MySQL, PosgreSQL Intermidiate <br />
+  Python, R for Data Science Intermidiate<br />
  
 </details>
 
