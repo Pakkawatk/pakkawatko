@@ -12,12 +12,11 @@
 
 ### SKILLS
 
-# A collapsible section with markdown
 <details>
   <summary>Literacy details>></summary>
-  
-  MySQL, PosgreSQL Intermidiate <br />
-  Python, R for Data Science Intermidiate<br />
+  <b>Official Certificate:</b> Rapidminer Professional.<br />
+  <b>Intermidiate:</b> Python, MySQL, PosgreSQL, Unix, Linux, Power BI, MS Office<br />
+  <b>Beginner (Learning):</b> R, Hadoop, Spark, Amazon Web Services, Google Cloud Platform, Mongo DB, H20 <br />
  
 </details>
 
