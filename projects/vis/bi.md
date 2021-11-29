@@ -1,1 +1,29 @@
+[<<Home](https://pakkawatk.github.io/portfolio)<br />
+## Visualization projects at my company.
+This page indicates my data visualizations that were built by me at my company.<br />
+*****Some confidentials have been censored.***<br />
 
+### KPI report. ( Yield and Defect )
+**Objective:** To monitor daily production yield and defect.<br />
+**Dataset:** Process Engineering Data Warehouse.<br /><br />
+**KPI overall by daily.**<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi1.png?raw=true)<br /><br />
+**Defects trend over times.**<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi2.png?raw=true)<br /><br />
+**Pop up slider to filter.**<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi3.png?raw=true)<br /><br />
+**Tooltips show the top defect.**<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi4.png?raw=true)<br /><br />
+**Drill Through to explore deep informations such as lots number, Machine number, Input/Output per lot.**
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi5.png?raw=true)<br /><br />
+
+### Critical parameters monitoring report. ( Yield and Defect )
+**Objective:** To monitor and trigger the critical parameters those out of control.<br />
+**Dataset:** Process Engineering Data Warehouse.<br /><br />
+
+**Triggering out of control parameters.**<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi6.png?raw=true)<br /><br />
+**Monitoring mean, SD of parameters.**<br />
+![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi7.png?raw=true)<br /><br />
+
+[<<Home](https://pakkawatk.github.io/portfolio)<br />
