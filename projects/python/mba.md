@@ -1,5 +1,5 @@
 [<<Home](https://pakkawatk.github.io/portfolio)<br />
-### Market Basket Analysis and Association Rules.
+## Market Basket Analysis and Association Rules.
 **Objective:** To find frequent item sets of online retail for making sale promotions.<br />
 **Dataset:** Transactions of online retail.<br />
 **Exploratory Data Analysis:**<br /><br />
