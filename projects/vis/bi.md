@@ -9,11 +9,11 @@ The reports include "Pop Up Bar"(bookmarks), Custom Tooltips, Drill Through, som
 **Dataset:** Process Engineering Data Warehouse.<br /><br />
  - **KPI overall by daily.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi1.png?raw=true)<br /><br />
-**Defects trend over times.**<br />
+ - **Defects trend over times.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi2.png?raw=true)<br /><br />
-**Pop up slider to filter.**<br />
+ - **Pop up slider to filter.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi3.png?raw=true)<br /><br />
-**Tooltips show the top defects while hovering mouse on chart.**<br />
+ - **Tooltips show the top defects while hovering mouse on chart.**<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi4.png?raw=true)<br /><br />
  - **Drill Through to explore deep informations such as lots number, Machine number, Input/Output per lot.**
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/bi5.jpg?raw=true)<br /><br />
