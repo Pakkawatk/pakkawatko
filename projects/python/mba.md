@@ -33,6 +33,8 @@ df = pd.read_excel('../SP_Programming/dataset/online_retail_II.xlsx')
 
 ```
 
+```
+
 # Making a function for examining data
 def data_research(data, data_name='data', un=False):
     #basic
@@ -64,6 +66,8 @@ def data_research(data, data_name='data', un=False):
             if data[i].dtype == 'object' or data[i].dtype == 'str':
                 print(data[i].unique())
 data_research(df, data_name='Online Retail')
+
+```
 
 ```
 
