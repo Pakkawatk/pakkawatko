@@ -36,7 +36,7 @@
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof8.PNG?raw=true)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof9.PNG?raw=true)<br /><br />
 
-**Conclusion:** Finally, we got two models and send submisstion file to Codalab and then Codalab predict by using unseen dataset and the best model of my team is XGBoost that we got 32th rank of log MAE in competition.  <br />
+**Conclusion:** Finally, we got two models and send submisstion file to Codalab and then Codalab predict by using unseen dataset and the best model of my team is XGBoost that we got 32th rank of log MAE = 1.27 in competition.  <br />
 
 ### Code
 
