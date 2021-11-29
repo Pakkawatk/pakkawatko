@@ -25,7 +25,7 @@
 - Apply Neural Network rulu = 12 layers, epochs=5000, batch_size=10000<br />
 - Apply train data set and predict test data set.
 - log_mae test = 3.28<br />
-- load and predict submission test data ( No Y column ) for submit in Codalab.
+- load and predict submission test data ( No y column ) for submit in Codalab.
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof7.PNG?raw=true)<br />
 **Machine Learning XGBoost:**
 - Find Best Model via AutoML and the best model is XGBoost.<br />
@@ -34,7 +34,7 @@
 - Apply train data set and predict test data set.
 - Apply XGBoost<br />
 - Log_MAE Train: 2.96, Log_MAE Test: 3.05
-- load and predict submission test data ( No Y column ) for submit in Codalab.
+- load and predict submission test data ( No y column ) for submit in Codalab.
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof8.PNG?raw=true)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof9.PNG?raw=true)<br /><br />
 
