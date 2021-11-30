@@ -1,6 +1,6 @@
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/logo.jpg?raw=true)<br />
 
-[Download Resume>>](https://github.com/Pakkawatk/portfolio/blob/gh-pages/files/PAKKAWATK_Resume_2021.pdf)<br />
+[<[Download Resume]>](https://github.com/Pakkawatk/portfolio/blob/gh-pages/files/PAKKAWATK_Resume_2021.pdf)<br />
 
 ### EDUCATIONS<br /> 
 - Studying Master’s Degrees in **Big Data Engineering**, Dhurakij Pundit University. (Started 2021)<br />
