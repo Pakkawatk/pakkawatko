@@ -40,7 +40,7 @@
 
 **Conclusion:** Finally, we got two models and send submisstion file to Codalab and then Codalab predict by using unseen dataset and the best model of my team is XGBoost that we got 32th rank of log MAE = 1.27 in competition.  <br />
 
-### Code
+## Code
 
 ```
 
@@ -152,6 +152,8 @@ else:
 
 ```
 
+### Neural Network
+
 ```
 
 pip install tensorflow
@@ -260,32 +262,20 @@ log_mae
 ```
 
 ```
-#Test, Predict Model
+
+#Predict Submission Model
 test_pred = model.predict(X_testset)
 test_pred
 
 ```
 
+### XGBoost Model
+
 ```
 
 conda install -c conda-forge shap
-
-```
-
-```
-
 pip install evalml
-
-```
-
-```
-
 import evalml
-
-```
-
-```
-
 evalml.problem_types.problem_types.ProblemTypes.all_problem_types
 evalml.objectives.get_all_objective_names()
 
@@ -306,41 +296,22 @@ print("Size of test data : ", X_test.shape[0])
 
 ```
 
-X_train[['functional_groups', 'topology']].T
-
-```
-
-```
-
+# Auto ML
 from evalml.automl import AutoMLSearch
 
 automl = AutoMLSearch(X_train=X_train, y_train=y_train, problem_type='regression', objective='mae')
 automl.search()
 automl.rankings
-
-```
-
-```
-
 automl.describe_pipeline(automl.rankings.iloc[0]["id"])
-
-```
-
-```
-
 best_pipeline = automl.best_pipeline
 best_pipeline.graph()
-
-```
-
-```
-
 best_pipeline.score(X_test, y_test, objectives=['mae', 'mse', 'root mean squared error'])
 
 ```
 
 ```
 
+# Drop id and y
 df_feat = df.drop(columns=['MOFname', 'CO2_working_capacity [mL/g]'], axis=1)
 df_feat.info()
 
@@ -359,6 +330,7 @@ X_ohe.shape
 ```
 
 ```
+
 # Save One-Hot Encoding
 import joblib
 joblib.dump(encoder, 'ohe_encoder_2.pkl')
@@ -384,16 +356,9 @@ X_num.shape
 
 # Normalize Features
 from sklearn.preprocessing import StandardScaler
-
 scaler = StandardScaler()
-
 X = scaler.fit_transform(X)
 X.shape
-
-```
-
-```
-
 # Save StandardScaler
 joblib.dump(scaler, 'ss_scaler_2.pkl')
 
@@ -401,6 +366,7 @@ joblib.dump(scaler, 'ss_scaler_2.pkl')
 
 ```
 
+# Assign y
 y = df['CO2_working_capacity [mL/g]'].values
 
 ```
@@ -429,6 +395,7 @@ model.score(X_train, y_train)
 
 ```
 
+# Validation
 from sklearn.metrics import mean_absolute_error
 
 y_model = model.predict(X_train)
@@ -444,28 +411,23 @@ print('Log_MAE Test:', log_mae_test)
 
 ```
 
+# Save model
 joblib.dump(model, 'xgb_model.sav')
 
 ```
 
 ```
+
 # Load Submission Test Data
 df_test = pd.read_csv('test.csv')
 df_test.info()
 
-```
-
-```
-
+# Transform Submission Test Data
 df_test.insert(
     loc=3,
     column="density [g/cm^3]",
     value=(df_test["weight [u]"] / df_test["volume [A^3]"]) * 1.66054,
 )
-
-```
-
-```
 
 # Drop columns 'MOFname' and reoder
 df_x = df_test.drop('MOFname', axis=1)
@@ -474,49 +436,24 @@ df_x = df_x[['volume [A^3]', 'weight [u]', 'density [g/cm^3]',
        'metal_linker', 'organic_linker1', 'organic_linker2',
        'CO2/N2_selectivity', 'heat_adsorption_CO2_P0.15bar_T298K [kcal/mol]',
        'functional_groups', 'topology']]
-       
-```
-
-```
 
 # One-Hot Encoding
 import joblib
-
 encoder = joblib.load('ohe_encoder_2.pkl')
-
 X_ohe = encoder.transform(df_x[['functional_groups', 'topology']])
 X_ohe.shape
-
-```
-
-```
-
 X_num = df_x.iloc[:,:11].values
 X_num.shape
-
-```
-
-```
 
 # Concat X_num and X_ohe
 X = np.append(X_num, X_ohe, axis=1)
 X.shape
 
-```
-
-```
-
 # Normalize Features
-
 scaler = joblib.load('ss_scaler_2.pkl')
-
 X = scaler.transform(X)
 X.shape
-
-```
-
-```
-
+# Predict submission data
 result = model.predict(X)
 result
 
