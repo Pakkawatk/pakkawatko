@@ -36,7 +36,7 @@ As a Citizen Data Analyst at my company. I created KPI, Summary, Ad-Hoc reports 
 _*Some confidential details was censored._<br />
 
 ### 4. Cloud Platform Projects.<br />
-Created Real-Time dashboard project using Pub/Sub dataset and BigQuery Data Warehouse.
+Created Real-Time dashboard project using Pub/Sub dataset and BigQuery Data Warehouse.<br />
 [View My Projects>>](https://pakkawatk.github.io/portfolio/projects/gcp)<br /><br />
 
 ### Cheat Sheet
