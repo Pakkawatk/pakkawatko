@@ -36,8 +36,7 @@ As a Citizen Data Analyst at my company. I created KPI, Summary, Ad-Hoc reports 
 _*Some confidential details was censored._<br />
 
 ### 4. Cloud Platform Projects.<br />
-
-![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
+[View My Projects>>](https://pakkawatk.github.io/portfolio/projects/gcp)<br /><br />
 
 ### Cheat Sheet
 [[Unix/Linux]](https://pakkawatk.github.io/portfolio/cc_unix)
