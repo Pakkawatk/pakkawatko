@@ -1,5 +1,5 @@
 [<<Home](https://pakkawatk.github.io/portfolio)<br />
-# Google Cloud Platform Projects.
+# Google Cloud Platform Project.
 This page briefly demonstates my GCP projects while I'm studying at DPU.<br />
 ### Creating Data Warehouse in Google Cloud Platform.
 **Dataset:** PUB/SUB Taxi Rider dataset.<br />
