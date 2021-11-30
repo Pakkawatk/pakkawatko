@@ -17,12 +17,6 @@
 **Beginner(Learning):**  R, Hadoop ( Map/Reduce ), Spark ( Map/Reduce ), Amazon Web Services, Google Cloud Platform, Mongo DB, H20<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/skills.png?raw=true)<br />
 
-### My Cheat Sheet
-[[Python for Data Science]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
-[[Python for Data Engineering]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
-[[SQL]](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)
-[[Unix/Linux]](https://pakkawatk.github.io/portfolio/cc_unix)
-
 ## My Data Projects.
 
 ### 1. Data Analytics with Python.
@@ -45,3 +39,6 @@ _*Some confidential details was censored._<br />
 ### 4. Cloud Platform Projects.<br />
 
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rapid1.PNG?raw=true)<br />
+
+### Cheat Sheet
+[[Unix/Linux]](https://pakkawatk.github.io/portfolio/cc_unix)
