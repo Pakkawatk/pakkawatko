@@ -15,6 +15,8 @@
   - Apply Association Rules with Lift >= 1.<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_MBA5.PNG?raw=true)<br /><br />
 **Conclusion:** Finally, we got item sets for making sale promotions those are based on % confidence and lift > 1.00.<br />
+**Reference:** [https://medium.com/@jihargifari](https://medium.com/@jihargifari/how-to-perform-market-basket-analysis-in-python-bd00b745b106)<br />
+**Reference:** [https://facebook.com/nerd](https://facebook.com/nerd)<br />
 
 ### Code
 
