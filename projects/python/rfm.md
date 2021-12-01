@@ -18,6 +18,8 @@
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM5.PNG?raw=true)<br /><br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/py_RFM6.PNG?raw=true)<br /><br />
 **Conclusion:** Finally, we got result for making marketing campaign for each segments.<br />
+**Reference:** [https://towardsdatascience.com](https://towardsdatascience.com/recency-frequency-monetary-model-with-python-and-how-sephora-uses-it-to-optimize-their-google-d6a0707c5f17?gi=58e1b18d9f9c)<br />
+**Reference:** [https://facebook.com/nerd](https://facebook.com/nerd)<br />
 
 ### Code
 
