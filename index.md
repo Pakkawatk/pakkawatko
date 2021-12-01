@@ -1,14 +1,11 @@
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/logo.jpg?raw=true)<br />
-
-[<[Download Resume]>](https://github.com/Pakkawatk/portfolio/blob/gh-pages/files/PAKKAWATK_Resume_2021.pdf)<br />
-
 ### EDUCATIONS<br /> 
 - Studying Master’s Degrees in **Big Data Engineering**, Dhurakij Pundit University. (Started 2021)<br />
 [Course Curriculum>>](https://cite.dpu.ac.th/bigdata/master-bigdata/structure-bigdata.html)<br />
 - Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br />
 
 ### LANGUAGE<br />
-- English TOEIC = 710 in 2014<br />
+- English TOEIC = 710 in 2014 (Going to retake on 7-Dec-21)<br />
 
 ### SKILLS
 **Official Certificate:** Rapidminer (Professional Crtification)<br />
