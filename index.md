@@ -8,7 +8,7 @@
 - English TOEIC = 710 in 2014 (Going to retake on 7-Dec-21)<br />
 
 ### SKILLS
-**Official Certificate:** Rapidminer (Professional Crtification)<br />
+**Official Certificate:** Rapidminer (Professional Certification)<br />
 **Intermidiate:**         Python, MySQL, PosgreSQL, Unix, Linux, Power BI, MS Office<br />
 **Beginner(Learning):**  R, Hadoop ( Map/Reduce ), Spark ( Map/Reduce ), Amazon Web Services, Google Cloud Platform, Mongo DB, H20<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/skills.png?raw=true)<br />
