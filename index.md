@@ -10,7 +10,7 @@
 ### SKILLS
 **Official Certificate:** Rapidminer (Professional Certification)<br />
 **Intermidiate:**         Python, MySQL, PosgreSQL, Unix, Linux, Power BI, MS Office<br />
-**Beginner(Learning):**  R, Hadoop ( Map/Reduce ), Spark ( Map/Reduce ), Amazon Web Services, Google Cloud Platform, Mongo DB, H20<br />
+**Beginner(Learning):**  R, Hadoop ( Map/Reduce ), Spark ( Map/Reduce ), Tableau, Amazon Web Services, Google Cloud Platform, Mongo DB, H20<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/skills.png?raw=true)<br />
 
 ## My Data Projects.
