@@ -5,7 +5,7 @@
 - Bachelor’s Degrees in Industrial Engineering, Kasetsart University.<br />
 
 ### LANGUAGE<br />
-- English TOEIC = 710 in 2014<br />
+- English TOEIC = 740 in 2021<br />
 
 ### SKILLS
 **Official Certificate:** Rapidminer (Professional Certification)<br />
