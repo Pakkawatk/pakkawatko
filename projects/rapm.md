@@ -1,7 +1,10 @@
 [<<Home](https://pakkawatk.github.io/portfolio)<br />
 # Data Analytics Projects with Rapid Miner Studio.
 This page briefly indicates data projects by Rapid Miner Studio while I'm studying at DPU.<br />
-## 1. Association Rules.
+
+## 1. Credit Risk Reserch.
+[Link>>](https://github.com/Pakkawatk/portfolio/blob/gh-pages/Credit%20Risk%20Analysis%20by%20Machine%20Learning%20%E0%B8%A0%E0%B8%84%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C%20%E0%B9%82%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B9%8C%20645162020007.pdf)<br />
+## 2. Association Rules.
 **Objective:** To find Frequent Item Sets and Association Rules for making Maketing Promotions.<br />
 **Dataset:** Basic example transactions of Super Market.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso1.PNG?raw=true)<br /><br />
@@ -17,7 +20,7 @@ Result of Association Rules, to find Lift at minimum confidence = 0.8.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_asso4.PNG?raw=true)<br />
 **Conclusion:** We can make promotions by above frequent item sets with confident pick up set = 100% and the pick up set (Lift) is 1.333 times of pick up one.<br /><br />
 
-## 2. Segmentation.
+## 3. Segmentation.
 **Objective:** To segment the customers by RFMB method and frequent shopping time of each customers for making Marketing Campaigns.<br />
 **Dataset:** Transactions of Shopping Mall.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm1.PNG?raw=true)<br /><br />
@@ -33,7 +36,7 @@ Result of Association Rules, to find Lift at minimum confidence = 0.8.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_rfm4.PNG?raw=true)<br /><br />
 **Conclusion:** We got RFMB table and shopping period for analyzing Marketing Campaign and Clustering.<br />
 
-## 3. Clustering.
+## 4. Clustering.
 **Objective:** To define cluster of customers which grouping by RFMB in order to making Marketing Campaign for individual clusters.<br />
 **Dataset:** RFMB segmentation.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus1.PNG?raw=true)<br /><br />
@@ -48,7 +51,7 @@ Result of Association Rules, to find Lift at minimum confidence = 0.8.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_clus4.PNG?raw=true)<br /><br />
 - **Conclusion:** Marketing Team can name the clusters and design individual campaigns for each cluster by RFMB score table.<br />
 
-## 4. Machine Learning.
+## 5. Machine Learning.
 **Objective:** To define sentimental from words.<br />
 **Dataset:** Table of 300 words in columns with labels.<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/rap_ML1.PNG?raw=true)<br /><br />
