@@ -19,7 +19,7 @@
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof5.PNG?raw=true)<br />
 ![Image](https://github.com/Pakkawatk/portfolio/blob/gh-pages/img/mof6.PNG?raw=true)<br />
 **Machine Learning Neural Network:**
-- Apply one-hot encodeing for trandforming nominal features to binary features.<br />
+- Apply one-hot encodeing for transforming nominal features to binary features.<br />
 - Normalize by Standard Scaler to balance values.<br />
 - Split train data size = 0.3.<br />
 - Apply Neural Network relu = 12 layers, epochs=5000, batch_size=10000<br />
