@@ -17,6 +17,8 @@
 
 ### 1. Data Analytics with Python.
 Self-learning about Data Analytics , Machine Learning and Machine Learning Competition using Python.<br />
+
+[- Boston House price prediction (On progress)](https://www.kaggle.com/pakkawatk/notebook18fda138a4)<br />
 [- Customer Segmentation (RFM)](https://pakkawatk.github.io/portfolio/projects/python/rfm)<br />
 [- Masket Basket Analysis and Association Rules (MBA)](https://pakkawatk.github.io/portfolio/projects/python/mba)<br />
 [- Machine Learning Competition at TMLCC using Neural Network and XGBoost](https://pakkawatk.github.io/portfolio/projects/python/tmlcc)<br />
